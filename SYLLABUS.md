@@ -12,7 +12,7 @@
 * [Assignments and Grading](#assignments-and-grading)
 * [Revision Policy](#revision-policy)
 * [Attendance, Participation, and Zoom Expectations](#attendance-participation-and-zoom-expectations)
-* [Disability Accomodation](#disability-accomodation)
+* [Disability Accommodation](#disability-accommodation)
 
 ### Instructor
 
