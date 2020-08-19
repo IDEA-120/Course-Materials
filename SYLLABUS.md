@@ -12,10 +12,11 @@
 * [Assignments and Grading](#assignments-and-grading)
 * [Revision Policy](#revision-policy)
 * [Attendance, Participation, and Zoom Expectations](#attendance-participation-and-zoom-expectations)
+* [Disability Accomodation](#disability-accomodation)
 
 ### Instructor
 
-Jared Kelley / MFA Graduate Instructor / jkelle28@uic.edu
+Jared Kelley / MFA Graduate Instructor / [jkelle28@uic.edu](mailto:jkelle28@uic.edu) / [jaredckelley.com](http://jaredckelley.com)
 
 ### Office Hours, One on One Meetings
 
