@@ -87,7 +87,7 @@ While a Zoom call doesn't look like a typical classroom, the same basic classroo
 * Consider [hiding your own video from yourself](https://support.zoom.us/hc/en-us/articles/115001077226-Hiding-or-showing-my-video-on-my-display#:~:text=Start%20or%20join%20a%20Zoom,see%20the%20video%20of%20you.) to minimize [Zoom fatigue](https://hbr.org/2020/04/how-to-combat-zoom-fatigue).
 * Do complete all readings and be prepared to participate in discussions. This is a significant portion of your grade.
 
-### Disability Accommodation:
+### Disability Accommodation
 
 The University of Illinois at Chicago is committed to maintaining a barrier-free environment so that students with disabilities can fully access programs, courses, services, and activities at UIC. Students with disabilities who require accommodations for access to and/or participation in this course are welcome, but must be registered with the Disability Resource Center (DRC). You may contact DRC at 312-413-2183 (v) or 773-649-4535 (VP/Relay) and consult the following:
 
