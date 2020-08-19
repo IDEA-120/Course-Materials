@@ -1,7 +1,25 @@
-# Digital Practices in Art and Design 
-### IDEA 120, Fall 2020
+# IDEA 120: Digital Practices in Art and Design
+### Syllabus for Fall 2020
 
-#### Syllabus
+#### Contents
+* [Instructor](#instructor)
+* [Office Hours, One on One Meetings](#office-hours-one-on-one-meetings)
+* [Course Description](#course-description)
+* [Course Outcomes](#course-outcomes)
+* [Assessment Methods](#assessment-methods)
+* [Course Content and Materials](#course-content-and-materials)
+* [Git, GitHub](#git-github)
+* [Assignments and Grading](#assignments-and-grading)
+* [Revision Policy](#revision-policy)
+* [Attendance, Participation, and Zoom Expectations](#attendance-participation-and-zoom-expectations)
+
+### Instructor
+
+Jared Kelley / MFA Graduate Instructor / jkelle28@uic.edu
+
+### Office Hours, One on One Meetings
+
+[Schedule a one on one appointment with me using Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
 
 ### Course Description
 
@@ -28,9 +46,20 @@ Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed
 
 ### Course Content and Materials
 
-Pre-recorded lectures, texts, articles, videos, audio clips, as well as additional resources like example files and tutorials, can be accessed on the course website, under the heading "Course Content". You will be responsible for watching, reading, and listening to each week's materials, as their content will be explored further in class discussion and your weekly assignments
+Pre-recorded lectures, texts, articles, videos, audio clips, as well as additional resources like example files and tutorials, can be accessed on the course GitHub repository under the folder for the current week. You will be responsible for watching, reading, and listening to each week's materials, as their content will be explored further in class discussion and your weekly assignments.
 
-### Assignments (100 possible points)
+### Git, GitHub
+
+We will make extensive use of Git and GitHub to post writing responses, project files, and as the central hub for course materials. 
+
+[Git](https://en.wikipedia.org/wiki/Git) is a file management system primarily used by programmers in software development (and also used by artists, writers, designers, scientists, among many others) that allows them to manage their projects as "repositories" or all-inclusive packages that can be managed and new versions updated ("pushed" to a server) easily. [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a web service that hosts these repositories. GitHub uses Git, but Git does not necessarily use GitHub.
+
+A GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me](mailto:jkelle28@uic.edu) with your username once you have.
+
+
+### Assignments and Grading
+
+There are 100 possible points you can earn from the following assignments:
 
 * Github Poetry Project: 10 pts
 * Digital Header Project: 10 pts
@@ -44,16 +73,17 @@ Pre-recorded lectures, texts, articles, videos, audio clips, as well as addition
 
 After project critiques, you will have the chance to revise your assignments using what you've learned in our discussion. Revised projects can be submitted directly to me by pushing the updated changes to our GitHub repository.
 
-### Attendance, Participation, Expectations of Being Online
+### Attendance, Participation, and Zoom Expectations
 
 This is a four hour course, with one contact hour per week in the form of Thursday discussions. You should expect to read, watch, or listen to around 3 hours of required course materials per week, in addition to the time it will take to complete assignments. Attendance for all discussions is required. 
 
-While a Zoom call is not a typical classroom, the same basic classroom courtesy applies:
+While a Zoom call doesn't look like a typical classroom, the same basic classroom courtesies apply.
 
 * Keep your video on. Turning off your video is the same as leaving early, or not showing up.
-* As much as you're able to, please keep your audio unmuted. Ensure you're in a quiet space where you can focus and be present in our discussions. If we're distracted by your background noise, you probably are, too.
-* Don't meet with us from your bed, and in that line, definitely don't lay down.
-* Within reason, get up and move around, pace, stretch, and reenergize yourself if you want or need to. Don't feel like you have to stare into the camera the entire time.
+* As much as you're able to, please keep your audio unmuted. Ensure you're in a quiet space where you can focus and be present in our discussions. If classmates are distracted by your background noise, you probably are, too.
+* Don't meet with us from your bed, and please do not lay down during our discussions.
+* Within reason, get up and move around to pace, stretch, and reenergize yourself if you want or need to. Don't feel like you have to stare into the camera the entire time.
+* Consider [hiding your own video from yourself](https://support.zoom.us/hc/en-us/articles/115001077226-Hiding-or-showing-my-video-on-my-display#:~:text=Start%20or%20join%20a%20Zoom,see%20the%20video%20of%20you.) to minimize [Zoom fatigue](https://hbr.org/2020/04/how-to-combat-zoom-fatigue).
 * Do complete all readings and be prepared to participate in discussions. This is a significant portion of your grade.
 
 ### Disability Accommodation:
