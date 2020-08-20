@@ -2,6 +2,7 @@
 ### Syllabus for Fall 2020
 
 ![Alison Knowles, House of Dust](knowles_house_of_dust.png)
+<sup>*Excerpt from [Alison Knowles 'House of Dust'](https://www.damnmagazine.net/2016/09/07/the-house-of-dust-by-alison-knowles/)*</sup>
 
 #### Contents
 * [Introduction and About the Syllabus](#introduction-and-about-the-syllabus)
