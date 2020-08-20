@@ -21,7 +21,7 @@
 
 ### Week 1
 
-#### Tuesday, 25 August 2020 
+#### Tuesday, 25 August 2020
 
 ### Week 2
 
