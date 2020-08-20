@@ -2,7 +2,7 @@
 ### Syllabus for Fall 2020
 
 #### Contents
-* [Instrtor](#instructor)
+* [Instructor](#instructor)
 * [Office Hours, One on One Meetings](#office-hours-one-on-one-meetings)
 * [Course Description](#course-description)
 * [Course Outcomes](#course-outcomes)
