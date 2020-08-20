@@ -2,6 +2,8 @@
 ### Syllabus for Fall 2020
 
 #### Contents
+* [Introduction and About the Syllabus](#introduction-and-about-the-syllabus)
+* [Course Format, Zoom Meeting Details](#course-format-zoom-meeting-details)
 * [Instructor](#instructor)
 * [Office Hours, One on One Meetings](#office-hours-one-on-one-meetings)
 * [Course Description](#course-description)
@@ -12,7 +14,23 @@
 * [Assignments and Grading](#assignments-and-grading)
 * [Revision Policy](#revision-policy)
 * [Attendance, Participation, and Zoom Expectations](#attendance-participation-and-zoom-expectations)
+* [Privacy Notification and Policy for Recording Discussions](#privacy-notification-and-policy-for-recording-discussions)
 * [Disability Accommodation](#disability-accommodation)
+* [COVID 19 Safety Protocols and Policies at UIC](#covid-19-safety-protocols-and policies-at-uic)
+
+### Introduction and About the Syllabus
+
+Welcome to IDEA 120: Digital Practices in Art and Design!
+
+This document is the current syllabus with the course description, expectations, policies, and resources. The contents of this document may change and be updated throughout the semester.
+
+### Course Format, Zoom Meeting Details
+
+IDEA 120 is an [asynchronous class](https://en.wikipedia.org/wiki/Asynchronous_learning) with once weekly discussions on Thursdays from 9:30 am to 10:45 am via Zoom.
+
+Extensive computer and internet use is required. If you do not have access to a laptop, [you may request to borrow one from the university](https://accc.uic.edu/online-learning/online-learning-students/basic-requirements-students/technology-tools-students/).
+
+Current Zoom meeting info [is in our Blackboard course under 'Announcements'](https://uic.blackboard.com/).
 
 ### Instructor
 
@@ -80,15 +98,29 @@ This is a four hour course, with one contact hour per week in the form of Thursd
 
 While a Zoom call doesn't look like a typical classroom, the same basic classroom courtesies apply.
 
-* Keep your video on. Turning off your video is the same as leaving early, or not showing up.
+* Keep your video on (see next session for allowed exceptions). Turning off your video is the same as leaving early, or not showing up.
 * As much as you're able to, please keep your audio unmuted. Ensure you're in a quiet space where you can focus and be present in our discussions. If classmates are distracted by your background noise, you probably are, too.
 * Don't meet with us from your bed, and please do not lay down during our discussions.
 * Within reason, get up and move around to pace, stretch, and reenergize yourself if you want or need to. Don't feel like you have to stare into the camera the entire time.
 * Consider [hiding your own video from yourself](https://support.zoom.us/hc/en-us/articles/115001077226-Hiding-or-showing-my-video-on-my-display#:~:text=Start%20or%20join%20a%20Zoom,see%20the%20video%20of%20you.) to minimize [Zoom fatigue](https://hbr.org/2020/04/how-to-combat-zoom-fatigue).
 * Do complete all readings and be prepared to participate in discussions. This is a significant portion of your grade.
 
+### Privacy Notification and Policy for Recording Discussions
+
+We will be recording the class sessions, or portions of the class, for students who are unable to attend synchronously. The recording feature for others is disabled so that no one else will be able to record this session through Zoom, Blackboard Collaborate, Webex, or Echo360. Recording by other means is not permitted. The recorded class sessions will be posted on our Blackboard class website unless otherwise notified.
+
+If you have privacy concerns and do not wish to appear in the recording, turn OFF your video and notify me in writing (via email) prior to the next class session. If you prefer to use a pseudonym instead of your name, please let me know what name you will be using, so that I can identify you during the class session. If you would like to ask a question, you may do so privately through the chat feature by addressing your question to me or your TA only (and not to “everyone”), or you may contact me or your TA by another private method, which we will agree upon in advance of class. If you have questions or concerns about this video recording policy, please contact me before the end of the first week of class.
+
 ### Disability Accommodation
 
 The University of Illinois at Chicago is committed to maintaining a barrier-free environment so that students with disabilities can fully access programs, courses, services, and activities at UIC. Students with disabilities who require accommodations for access to and/or participation in this course are welcome, but must be registered with the Disability Resource Center (DRC). You may contact DRC at 312-413-2183 (v) or 773-649-4535 (VP/Relay) and consult the following:
 
 [http://drc.uic.edu/guide-to-accommodations](http://drc.uic.edu/guide-to-accommodations).
+
+### COVID-19 Safety Protocols and Policies at UIC
+
+Face Masks: Masks must be worn at all times by all students, faculty, and staff while on campus, whether in or out of class, in all offices, on all pathways, and inside and outside of all buildings, in accordance with University policies. If you do not wear a mask, you will be asked to leave the classroom and will not be allowed back in class unless or until you wear a mask. Eating and drinking is not allowed in classrooms.
+
+Social Distancing: We all must maintain appropriate social distancing at all times, whether in or out of class, in all offices, on all pathways, and inside and outside of all buildings. On-campus classes are being held in classrooms that are large enough to maintain a minimum physical distance of 6 feet (or two arm’s length) between people; we will implement assigned seating to ensure social distancing is observed and also to make contact tracing easier if there is an incident of COVID-19 infection in our class.
+
+Hand Washing/ Sanitizing: Everyone is expected to wash or sanitize their hands before class, either by using personal sanitizer or by using one of the sanitizer dispensers located on campus. Please remember to wash your hands with soap for 20 seconds or more. If using hand sanitizer, please remember it should be at least 60% alcohol and you should rub your hands together until dry.
