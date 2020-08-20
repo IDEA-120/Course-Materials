@@ -25,7 +25,7 @@
 
 Welcome to IDEA 120: Digital Practices in Art and Design!
 
-This document is the current syllabus with the course description, expectations, policies, and resources. The contents of this document may change and be updated throughout the semester.
+This document is the current syllabus with the course description, expectations, policies, and resources. The contents of this document may be updated throughout the semester.
 
 ### Course Format, Zoom Meeting Details
 
