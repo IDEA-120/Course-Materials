@@ -16,7 +16,7 @@
 
 ### Instructor
 
-Jared Kelley / MFA Graduate Instructor / [jkelle28@uic.edu](mailto:jkelle28@uic.edu) / [jaredckelley.com](http://jaredckelley.com)
+Jared Kelley / Graduate Instructor, MFA in New Media / [jkelle28@uic.edu](mailto:jkelle28@uic.edu) / [jaredckelley.com](http://jaredckelley.com)
 
 ### Office Hours, One on One Meetings
 
