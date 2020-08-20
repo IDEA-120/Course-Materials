@@ -51,7 +51,7 @@ Pre-recorded lectures, texts, articles, videos, audio clips, as well as addition
 
 ### Git, GitHub
 
-We will make extensive use of Git and GitHub to post writing responses, project files, and as the central hub for course materials. 
+We will make extensive use of Git and GitHub to post writing responses, project files, and as the central hub for course materials.
 
 [Git](https://en.wikipedia.org/wiki/Git) is a file management system primarily used by programmers in software development (and also used by artists, writers, designers, scientists, among many others) that allows them to manage their projects as "repositories" or all-inclusive packages that can be managed and new versions updated ("pushed" to a server) easily. [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a web service that hosts these repositories. GitHub uses Git, but Git does not necessarily use GitHub.
 
@@ -76,7 +76,7 @@ After project critiques, you will have the chance to revise your assignments usi
 
 ### Attendance, Participation, and Zoom Expectations
 
-This is a four hour course, with one contact hour per week in the form of Thursday discussions. You should expect to read, watch, or listen to around 3 hours of required course materials per week, in addition to the time it will take to complete assignments. Attendance for all discussions is required. 
+This is a four hour course, with one contact hour per week in the form of Thursday discussions. You should expect to read, watch, or listen to around 3 hours of required course materials per week, in addition to the time it will take to complete assignments. Attendance for all discussions is required.
 
 While a Zoom call doesn't look like a typical classroom, the same basic classroom courtesies apply.
 
