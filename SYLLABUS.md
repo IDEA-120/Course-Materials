@@ -1,7 +1,7 @@
 # IDEA 120: Digital Practices in Art and Design
 ### Syllabus for Fall 2020
 
-![Alison Knowles, House of Dust](knowles_house_of_dust.png)
+<span style="border-radius:5px;">![Alison Knowles, House of Dust](knowles_house_of_dust.png)</span>
 <sup>*Excerpt from [Alison Knowles 'House of Dust'](https://www.damnmagazine.net/2016/09/07/the-house-of-dust-by-alison-knowles/)*</sup>
 
 #### Contents
