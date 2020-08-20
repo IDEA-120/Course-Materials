@@ -1,6 +1,8 @@
 # IDEA 120: Digital Practices in Art and Design
 ### Syllabus for Fall 2020
 
+![Alison Knowles, House of Dust](knowles_house_of_dust.png)
+
 #### Contents
 * [Introduction and About the Syllabus](#introduction-and-about-the-syllabus)
 * [Course Format, Zoom Meeting Details](#course-format-zoom-meeting-details)
@@ -16,7 +18,7 @@
 * [Attendance, Participation, and Zoom Expectations](#attendance-participation-and-zoom-expectations)
 * [Privacy Notification and Policy for Recording Discussions](#privacy-notification-and-policy-for-recording-discussions)
 * [Disability Accommodation](#disability-accommodation)
-* [COVID 19 Safety Protocols and Policies at UIC](#covid-19-safety-protocols-and policies-at-uic)
+* [COVID-19 Safety Protocols and Policies](#covid-19-safety-protocols-and-policies)
 
 ### Introduction and About the Syllabus
 
@@ -117,10 +119,12 @@ The University of Illinois at Chicago is committed to maintaining a barrier-free
 
 [http://drc.uic.edu/guide-to-accommodations](http://drc.uic.edu/guide-to-accommodations).
 
-### COVID-19 Safety Protocols and Policies at UIC
+### COVID-19 Safety Protocols and Policies
+
+For those attending in person classes:
 
 Face Masks: Masks must be worn at all times by all students, faculty, and staff while on campus, whether in or out of class, in all offices, on all pathways, and inside and outside of all buildings, in accordance with University policies. If you do not wear a mask, you will be asked to leave the classroom and will not be allowed back in class unless or until you wear a mask. Eating and drinking is not allowed in classrooms.
 
 Social Distancing: We all must maintain appropriate social distancing at all times, whether in or out of class, in all offices, on all pathways, and inside and outside of all buildings. On-campus classes are being held in classrooms that are large enough to maintain a minimum physical distance of 6 feet (or two arm’s length) between people; we will implement assigned seating to ensure social distancing is observed and also to make contact tracing easier if there is an incident of COVID-19 infection in our class.
 
-Hand Washing/ Sanitizing: Everyone is expected to wash or sanitize their hands before class, either by using personal sanitizer or by using one of the sanitizer dispensers located on campus. Please remember to wash your hands with soap for 20 seconds or more. If using hand sanitizer, please remember it should be at least 60% alcohol and you should rub your hands together until dry.
+Hand Washing, Sanitizing: Everyone is expected to wash or sanitize their hands before class, either by using personal sanitizer or by using one of the sanitizer dispensers located on campus. Please remember to wash your hands with soap for 20 seconds or more. If using hand sanitizer, please remember it should be at least 60% alcohol and you should rub your hands together until dry.
