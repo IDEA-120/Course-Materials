@@ -41,22 +41,28 @@ Due by **Tuesday, September 1, 2020**:
 * Create [a new GitHub Account](https://github.com/join)
 * Email your GitHub username to: [jkelle28@uic.edu](mailto:jkelle28@uic.edu)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
-* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-01-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem.
+* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-01-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem
 * 'Commit' the new file to your repository with a description.
 
 ### Week 2
 
 Due by **Tuesday, September 8, 2020**:
 * Read [Chris Salter, Entangled](/week_02_week_of_08-31-2020/readings/Salter_Chris_Entangled.pdf)
-* Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write around 2 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*.
+* Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 4-5 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*.
+ * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/)
 * Download and install [the Atom text editor](https://atom.io/)
-* Watch [Installing Atom and adding a GitHub a Repository](vimeo.com) and complete the steps yourself with your 'idea-120-responses' repository
-* Read the description for [Project 1: GitHub Poetry (due week 4)](https://github.com/IDEA-120/github-poetry) and add the repository to Atom.
+* Watch [Installing Atom and adding a GitHub Repository](vimeo.com) and complete the steps yourself with your 'idea-120-responses' repository
+* Read the description for [Project 1: GitHub Poetry (due week 4)](https://github.com/IDEA-120/github-poetry) and add the project repository to Atom
 
 ### Week 3
 
 Due by **Tuesday, September 15, 2020**:
-* Read [Cathy O'Neil, Weapons of Math Destruction 'Introduction' and 'Chapter 1'](/week_03_week_of_09-07-2020/readings/cathy-o-neil-weapons-of-math-destruction.pdf)
+* Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_03_week_of_09-07-2020/readings/cathy-o-neil-weapons-of-math-destruction.pdf)
+* In Atom, create a new markdown file named 'week-03-o-neil.md' and save it in your 'idea-120-responses' repository project folder. In this file give an example in about 4 paragraphs of a 'WMD' as O'Neil describes it.
+* Save the file and ['stage-all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
+* On the GitHub website create [a new branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) in your 'idea-120-responses' repository and name it 'week-03-feedback'
+* Invite [your assigned partner](/week_03_week_of_09-07-2020/readings/partner-assignments.md) to your new branch 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+* Accept your partner's invitation to collaborate on their repository and [add the repository to Atom](vimeo.com) pull request
 * Read W3C's [HTML Tutorial from 'Introduction' to 'Iframes'](https://www.w3schools.com/html/default.asp)
 * Read W3C's [CSS Tutorial from 'Introduction' to 'Position'](https://www.w3schools.com/css/default.asp)
 

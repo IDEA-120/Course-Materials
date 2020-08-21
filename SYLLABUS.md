@@ -76,7 +76,7 @@ We will make extensive use of Git and GitHub to post writing responses, project 
 
 [Git](https://en.wikipedia.org/wiki/Git) is a file management system primarily used by programmers in software development (and also used by artists, writers, designers, scientists, among many others) that allows them to manage their projects as "repositories" or all-inclusive packages that can be managed and new versions updated ("pushed" to a server) easily. [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a web service that hosts these repositories. GitHub uses Git, but Git does not necessarily use GitHub.
 
-A GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me](mailto:jkelle28@uic.edu) with your GitHub username.
+A free GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me at jkelle28@uic.edu](mailto:jkelle28@uic.edu) with your GitHub username.
 
 
 ### Assignments and Grading
