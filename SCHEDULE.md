@@ -149,20 +149,30 @@ Due **Thursday, October 22, 2020**:
 * CSS/Typography Project critique
 
 ### Week 10
+#### The Art of the Game, the Game of the Art: Game Design for Artists
+
+Due **Thursday, November 2, 2020**:
+* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2]()
 
 ### Week 11
+
+
 
 ### Week 12
 
 ### Week 13
 
-Due **Tuesday, October 20, 2020**:
+Due **Tuesday, December 1, 2020**:
 * Read the description for [Project 5: Final Portfolio](/final-portfolio)
 
-Due **Thursday, November 19, 2020**:
+Due **Thursday, December 3, 2020**:
 * Non-linear Narrative Project critique
 
+
+
 ### Week 14
+
+**Thanksgiving Week**: No discussion this week
 
 Continue working on your Final Portfolio Project
 
