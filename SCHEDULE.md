@@ -87,7 +87,7 @@ Collaborating with 'Pull Requests' Partner Feedback due **Thursday, September 17
 
 Due **Tuesday, September 21, 2020**:
 * Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_04_week_of_09-14-2020/readings/cathy-o-neil-weapons-of-math-destruction.pdf)
-Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_04_week_of_09-14-2020/readings/mcluhan-medium-is-the-message.pdf)
+* Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_04_week_of_09-14-2020/readings/mcluhan-medium-is-the-message.pdf)
 <!-- ADD CONTENT FOR THIS READING -->
 * Read [Higgins and Khan, Mainframe Experimentalism: First Generation Poetry Generators]()
 * In Atom, create a new markdown file named 'week-04-o-neil.md' and save it in your 'idea-120-responses' repository project folder. In this file give an example in about 3 paragraphs of a 'WMD' as O'Neil describes it.
@@ -111,6 +111,7 @@ Due **Tuesday, September 21, 2020**:
 #### A Series of Tubes: What is the Internet?
 
 Due **Tuesday, September 21, 2020**:
+* Watch [Lecture: The Internet! How did we get here?](vimeo)
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 * Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)
 * Read [Tutorial: Setting up the virtual lab](/week_06_week_of_09-28-2020/readings/virtual_computer_lab_setup.pdf) and complete the steps yourself
@@ -167,8 +168,6 @@ Due **Tuesday, December 1, 2020**:
 
 Due **Thursday, December 3, 2020**:
 * Non-linear Narrative Project critique
-
-
 
 ### Week 14
 
