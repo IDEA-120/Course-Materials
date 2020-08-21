@@ -24,7 +24,7 @@
 
 This document is the current course schedule broken down by week.
 
-In this document, under each week there are a list of assigned videos, texts, and exercises to complete, how and where to submit assignments, and the due dates they should be completed.  The contents of this document will change and be updated throughout the semester.
+In this document, under each week there are a list of assigned videos, texts, and exercises to complete, how and where to submit assignments, and the due dates they should be completed.  The contents of this document will be updated throughout the semester.
 
 ### Week 1
 
@@ -41,18 +41,24 @@ Due by **Tuesday, September 1, 2020**:
 * Create [a new GitHub Account](https://github.com/join)
 * Email your GitHub username to: [jkelle28@uic.edu](mailto:jkelle28@uic.edu)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
-* Create [a new text file called 'week-01-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem.
+* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-01-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem.
 * 'Commit' the new file to your repository with a description.
 
 ### Week 2
 
-Due by **Monday, September 7, 2020**:
-* Read [Chris Salter, Entangled p. 1-4 and 37-44](/week_02_week_of_08-31-2020/readings/Salter_Chris_Entangled-selections.pdf)
+Due by **Tuesday, September 8, 2020**:
+* Read [Chris Salter, Entangled](/week_02_week_of_08-31-2020/readings/Salter_Chris_Entangled.pdf)
+* Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write around 2 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*.
 * Download and install [the Atom text editor](https://atom.io/)
-* Watch [Installing Atom and adding a GitHub a Repository](vimeo.com) and complete the steps yourself
-* Watch [Intro to Project 1: GitHub Poetry](vimeo.com)
+* Watch [Installing Atom and adding a GitHub a Repository](vimeo.com) and complete the steps yourself with your 'idea-120-responses' repository
+* Read the description for [Project 1: GitHub Poetry (due week 4)](https://github.com/IDEA-120/github-poetry) and add the repository to Atom.
 
 ### Week 3
+
+Due by **Tuesday, September 15, 2020**:
+* Read [Cathy O'Neil, Weapons of Math Destruction 'Introduction' and 'Chapter 1'](/week_03_week_of_09-07-2020/readings/cathy-o-neil-weapons-of-math-destruction.pdf)
+* Read W3C's [HTML Tutorial from 'Introduction' to 'Iframes'](https://www.w3schools.com/html/default.asp)
+* Read W3C's [CSS Tutorial from 'Introduction' to 'Position'](https://www.w3schools.com/css/default.asp)
 
 ### Week 4
 
