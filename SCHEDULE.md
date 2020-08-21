@@ -60,9 +60,11 @@ Due by **Tuesday, September 15, 2020**:
 * Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_03_week_of_09-07-2020/readings/cathy-o-neil-weapons-of-math-destruction.pdf)
 * In Atom, create a new markdown file named 'week-03-o-neil.md' and save it in your 'idea-120-responses' repository project folder. In this file give an example in about 4 paragraphs of a 'WMD' as O'Neil describes it.
 * Save the file and ['stage-all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
-* On the GitHub website create [a new branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) in your 'idea-120-responses' repository and name it 'week-03-feedback'
+* On the GitHub website create [a new branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) in your 'idea-120-responses' repository and name it 'week-03-feedback-YOURNAME'
 * Invite [your assigned partner](/week_03_week_of_09-07-2020/readings/partner-assignments.md) to your new branch 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
-* Accept your partner's invitation to collaborate on their repository and [add the repository to Atom](vimeo.com) pull request
+* Accept your partner's invitation to collaborate on their repository and [add the repository to Atom](vimeo.com)
+* Open the 'week-03-o-neil.md' file in your partner's 'week-03-feedback' repository and write a short (less than a paragraph) reaction to your partner's writing and save the file
+* Create a [pull request](https://flight-manual.atom.io/using-atom/sections/github-package/#create-a-pull-request)
 * Read W3C's [HTML Tutorial from 'Introduction' to 'Iframes'](https://www.w3schools.com/html/default.asp)
 * Read W3C's [CSS Tutorial from 'Introduction' to 'Position'](https://www.w3schools.com/css/default.asp)
 
