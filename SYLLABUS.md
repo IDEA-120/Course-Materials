@@ -45,7 +45,7 @@ Jared Kelley / Graduate Instructor, MFA in New Media / [jkelle28@uic.edu](mailto
 
 ### Course Description
 
-Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed and Boing Boing articles, Reddit threads, and WhatsApp messages - combines to form the vast majority of the content most of us create and consume every day. Existing digital media and the digitized versions of the old media before it are available to more people than ever before, while even more digital content is created each day than in the whole of human history up to the creation of the internet. Protests, social justice movements, and political campaigns are won or lost through online organization and the dissemination of viral digital media. And this list, the list of influences digital media holds in our lives, still continues to grow and grow. In the vast interconnected global village of the internet, who are we in relationship to and how do we thoughtfully read digital media? And, even more, what skills are most useful to strengthen our careers and communities, and lead our own creative endeavors and social movements in this media landscape? These are some of the primary questions we will be exploring in this digital practices course.
+Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed and Boing Boing articles, Reddit threads, and WhatsApp messages - combines to form the vast majority of the content most of us create and consume every day. Existing digital media and the digitized versions of the old media before it are available to more people than ever before, while even more digital content is created each day than in the whole of human history up to the creation of the internet. Protests, social justice movements, and political campaigns are won or lost through online organization and the dissemination of viral digital media. And this list of influences digital media holds in our lives still continues to grow and grow. In the vast interconnected global village of the internet, who are we in relationship to and how do we thoughtfully read digital media? And, even more, what skills are most useful to strengthen our careers and communities, and lead our own creative endeavors and social movements in this media landscape? These are some of the primary questions we will be exploring in this digital practices course.
 
 * Our course explores digital media as an art form, bringing it together with design, cultural and technology studies, and into an interactive, collaborative class.
 * Our course is oriented toward making, writing, building and identifying relevant skills for a digital media toolkit and historical and theoretical introductions to practices that will be useful for creative and critical thinkers working across disciplines.
@@ -84,8 +84,8 @@ A free GitHub account is required for this class. [Create an account here](https
 There are 100 possible points you can earn from the following assignments:
 
 * Github Poetry Project: 10 pts
-* Digital Header Project: 10 pts
-* Typography Project: 10 pts
+* Green Screen Project: 10 pts
+* CSS Typography Project: 10 pts
 * Non-linear Narrative Project: 10 pts
 * Final Portfolio Project: 20 pts
 * Written Responses: 20 pts
@@ -101,7 +101,7 @@ This is a four hour course, with one contact hour per week in the form of Thursd
 
 While a Zoom call doesn't look like a typical classroom, the same basic classroom courtesies apply.
 
-* Keep your video on (see next session for allowed exceptions). Turning off your video is the same as leaving early, or not showing up.
+* Keep your video on (see next section for allowed exceptions). Turning off your video is the same as leaving early, or not showing up.
 * As much as you're able to, please keep your audio unmuted. Ensure you're in a quiet space where you can focus and be present in our discussions. If classmates are distracted by your background noise, you probably are, too.
 * Don't meet with us from your bed, and please do not lay down during our discussions.
 * Within reason, get up and move around to pace, stretch, and reenergize yourself if you want or need to. Don't feel like you have to stare into the camera the entire time.
