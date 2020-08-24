@@ -90,7 +90,7 @@ DUE **Thursday, September 17, 2020 before discussion**
 
 Collaborating with 'Pull Requests' Partner Feedback (we'll discuss the questions you write to your partner):
 * On the GitHub website create [a new branch](https://guides.github.com/activities/hello-world/#branch) in your 'idea-120-responses' repository and name it 'week-03-feedback-YOUR_GITHUB_USERNAME'
-* Invite [your partner](/week_03_week_of_09-07-2020/readings/partner-assignments.md) to your new branch 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+* ***PARTNER DOC AVAILABLE on 9/07*** ~~Invite your partner to your new branch~~ 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
 * Accept your partner's invitation to collaborate on their repository and [open their 'week-03-mcluhan.md' file](https://guides.github.com/activities/hello-world/#commit) in their 'week-03-feedback' repository and add a short reaction (around a paragraph) asking any new questions their response sparked for you
 * Write a short, genuine, reaction and ask a few questions to your partner about their response. Save the file and [commit the changes](https://guides.github.com/activities/hello-world/#commit)
 * Open a [pull request](https://guides.github.com/activities/hello-world/#pr) for your committed changes and write a short description explaining what changes you made to the document
