@@ -154,7 +154,7 @@ DUE **Tuesday, October 6**:
 ***
 
 ### Week 8
-#### What is a model? Design and Algorithms
+#### Week of October 12, 2020: What is a model? Design and Algorithms
 
 DUE **Tuesday, October 13**:
 * ***VIDEO AVAILABLE on 10/05*** ~~Watch Lecture: Alternative Data Design~~
@@ -169,7 +169,7 @@ DUE **Tuesday, October 13**:
 ## Unit 3: Non-linear Narratives in Digital Media
 
 ### Week 9
-#### Week of October 12, 2020: Personal Digital Narrative
+#### Week of October 19, 2020: Personal Digital Narrative
 
 DUE **Tuesday, October 20**:
 * ***VIDEO AVAILABLE on 10/12*** ~~Watch Lecture: Agency, Identity, and Voice in Videogames~~
