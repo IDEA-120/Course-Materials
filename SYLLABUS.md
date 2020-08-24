@@ -65,7 +65,7 @@ Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed
 
 ### Course Outcomes
 
-* Students will demonstrate a basic understanding of how key ideas of digital media practices in design and the arts are materialized through current digital media creation tools and their underling social and technological systems.
+* Students will demonstrate a basic understanding of how key ideas of digital media practices in design and the arts are materialized through current digital media creation tools and their underlying social and technological systems.
 * Students will demonstrate an understanding of digital media resources in design and the arts.
 * Students will demonstrate an ability to use current creative digital media tools (purpose built or appropriated) and systems in design and the arts.
 * Students will demonstrate a basic understanding of how digital media practices in design and the arts (including architectural, visual, environmental, theatrical, musical, and art historical) reflects and shapes technological and cultural conditions, including questions of community, personal narrative, privacy, and security.
