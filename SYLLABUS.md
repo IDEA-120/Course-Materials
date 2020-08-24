@@ -122,7 +122,7 @@ The University of Illinois at Chicago is committed to maintaining a barrier-free
 
 ### COVID-19 Safety Protocols and Policies
 
-For those attending in person classes:
+General guidance for those attending in person classes:
 
 Face Masks: Masks must be worn at all times by all students, faculty, and staff while on campus, whether in or out of class, in all offices, on all pathways, and inside and outside of all buildings, in accordance with University policies. If you do not wear a mask, you will be asked to leave the classroom and will not be allowed back in class unless or until you wear a mask. Eating and drinking is not allowed in classrooms.
 
