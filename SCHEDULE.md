@@ -28,7 +28,7 @@
 
 This document is the current course schedule broken down by week.
 
-In this document, under each week there are a list of assigned videos, texts, and exercises to complete by the following Tuesday or the discussion the following Thursday, along with how and where to submit assignments.  The contents of this document will be updated throughout the semester.
+In this document, under each week there are a list of assigned videos, texts, and exercises to complete for that Tuesday or the discussion on Thursday, along with how and where to submit assignments.  The contents of this document will be updated throughout the semester.
 
 ***
 
