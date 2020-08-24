@@ -1,7 +1,7 @@
 # IDEA 120: Digital Practices in Art and Design
 ### Schedule for Fall 2020
 
-![Alison Knowles, House of Dust](jodi_wwwwwwwww.png)
+![Jodi, 'wwwwwwwww'](jodi_wwwwwwwww.png)
 <sup>*Screenshot from [Jodi (Collective) 'wwwwwwwww'](http://wwwwwwwww.jodi.org/)*</sup>
 
 #### Contents
@@ -260,3 +260,7 @@ DUE **Thursday, December 3**:
 * Final Portfolio Project critique
 
 ***
+
+![Dancing Baby](dancing_baby.gif)
+
+<sup>*The classic [Dancing Baby](https://knowyourmeme.com/memes/dancing-baby)*</sup>
