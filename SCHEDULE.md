@@ -227,7 +227,7 @@ DUE **Tuesday, November 10**:
 * I will merge the changes to the main document as people add them.
 
 DUE **Thursday, November 12**
-* Schedule a [one-on-one meeting with me for next week (11/16, 11/17, or 11/18) on Calendly]((https://calendly.com/jaredchrstphrkelley/15min1on1))
+* Schedule a [one-on-one meeting with me for next week (11/16, 11/17, or 11/18) on Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
 
 ***
 
