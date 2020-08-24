@@ -112,7 +112,7 @@ DUE **Tuesday, September 22**:
 
 DUE **Thursday, September 24**:
 * GitHub Poetry Project critique
-* Schedule a [one-on-one meeting with me for next week (9/28, 9/29, 9/30, or 10/1) on Calendly]((https://calendly.com/jaredchrstphrkelley/15min1on1))
+* Schedule a [one-on-one meeting with me for next week (9/28, 9/29, 9/30, or 10/1) on Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
 
 ***
 
