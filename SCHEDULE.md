@@ -63,7 +63,7 @@ DUE **Tuesday, September 1**:
 #### Week of September 7, 2020: A Brief History of (Digital, and other) Media in Art
 
 DUE **Tuesday, September 8**:
-* ***VIDEO AVAILABLE on 8/30*** ~~~Watch Lecture: A Brief History of the Internet and Net Art~~~
+* ***VIDEO AVAILABLE on 8/30*** ~~Watch Lecture: A Brief History of the Internet and Net Art~~
 * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis', ](https://www.w3schools.com/html/default.asp)
 * Read [Chris Salter, Entangled](/week_03_week_of_09-07-2020/readings/Chris-Salter-Entangled-WEEK-03.pdf)
 * Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 3-4 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*.
@@ -78,7 +78,7 @@ DUE **Tuesday, September 8**:
 #### Week of September 14, 2020: Media Theory, Part 1
 
 DUE **Tuesday, September 15**:
-* ***VIDEO AVAILABLE on 9/07*** ~~~Watch Lecture: Hot Media, Cool Semiotics, Part 1~~~
+* ***VIDEO AVAILABLE on 9/07*** ~~Watch Lecture: Hot Media, Cool Semiotics, Part 1~~
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_09-14-2020/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_09-14-2020/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
 * In Atom, create a new markdown file named 'week-03-response.md' and save it in your 'idea-120-responses' repository
@@ -103,7 +103,7 @@ Collaborating with 'Pull Requests' Partner Feedback (we'll discuss the questions
 #### Week of September 21, 2020: Media Theory, Part 2
 
 DUE **Tuesday, September 22**:
-* ***VIDEO AVAILABLE on 9/14*** ~~~Watch Lecture: Hot Media, Cool Semiotics, Part 2~~~
+* ***VIDEO AVAILABLE on 9/14*** ~~Watch Lecture: Hot Media, Cool Semiotics, Part 2~~
 * Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_09-21-2020/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_09-21-2020/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
 * Read [Higgins and Kahn, Mainframe Experimentalism: First Generation Poetry Generators](/week_05_week_of_09-21-2020/readings/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
@@ -124,7 +124,7 @@ DUE **Thursday, September 24**:
 One-on-one meetings this week before midterm grades are submitted
 
 DUE **Tuesday, September 29**:
-* ***VIDEO AVAILABLE on 9/21*** ~~~Watch Lecture: Totally Regular Reorientation~~~
+* ***VIDEO AVAILABLE on 9/21*** ~~Watch Lecture: Totally Regular Reorientation~~
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_09-28-2020/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
 * Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube', ](https://www.w3schools.com/html/default.asp)
 * Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
@@ -140,13 +140,13 @@ DUE **Tuesday, September 29**:
 **Graduate Student Mid-terms - No discussion or one-on-one sessions this week**
 
 DUE **Tuesday, October 6**:
-* ***VIDEO AVAILABLE on 9/28*** ~~~Watch Lecture: What is the Internet?~~~
+* ***VIDEO AVAILABLE on 9/28*** ~~Watch Lecture: What is the Internet?~~
 * Read [‘You Can Still Make Websites Nowadays’: A Talk with the Pioneering Internet Art Collective JODI](https://www.artnews.com/art-news/artists/can-still-make-websites-nowadays-talk-pioneering-internet-art-collective-jodi-10653/)
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 * Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)
 * Read [Tutorial: Setting up the virtual lab](/week_06_week_of_09-28-2020/readings/virtual_computer_lab_setup.pdf) and complete the steps yourself
-* ***VIDEO AVAILABLE on 9/28*** ~~~Watch Tutorial: Illustrator Overview~~~
-* ***VIDEO AVAILABLE on 9/28*** ~~~Watch Tutorial: Photoshop Overview~~~
+* ***VIDEO AVAILABLE on 9/28*** ~~Watch Tutorial: Illustrator Overview~~
+* ***VIDEO AVAILABLE on 9/28*** ~~Watch Tutorial: Photoshop Overview~~
 * Read W3C's [CSS Tutorial from 'CSS Overflow' to 'CSS Specificity'](https://www.w3schools.com/css/default.asp)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-06-response.md' and discuss in about 3 paragraphs if you agree with the problems and solutions laid out by Bridle and Berners-Lee. Bridle and Berners-Lee have a specific vision for what the internet 'should be'. Do you agree with this vision?
 * Push the file to your repository
@@ -157,7 +157,7 @@ DUE **Tuesday, October 6**:
 #### What is a model? Design and Algorithms
 
 DUE **Tuesday, October 13**:
-* ***VIDEO AVAILABLE on 10/05*** ~~~Watch Lecture: Alternative Data Design~~~
+* ***VIDEO AVAILABLE on 10/05*** ~~Watch Lecture: Alternative Data Design~~
 * Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
 * Read [Cathy O'Neil, Weapons of Math Destruction: Chapter 4](/week_08_week_of_10-12-2020/readings/Cathy-O-Neil-Weapons-Of-Math-Destruction-Chapter-4-WEEK-08.pdf)
 * Read [Chris Gayomali, How typeface influences the way we read and think](https://theweek.com/articles/463196/how-typeface-influences-way-read-think)
@@ -172,7 +172,7 @@ DUE **Tuesday, October 13**:
 #### Week of October 12, 2020: Personal Digital Narrative
 
 DUE **Tuesday, October 20**:
-* ***VIDEO AVAILABLE on 10/12*** ~~~Watch Lecture: Agency, Identity, and Voice in Videogames~~~
+* ***VIDEO AVAILABLE on 10/12*** ~~Watch Lecture: Agency, Identity, and Voice in Videogames~~
 * Read [Lisa Nakamura, Digitizing Race: Introduction](/week_09_week_of_10-19-2020/readings/Lisa-Nakamura-Digitizing-Race-Intro-WEEK-09.pdf)
 * Read the description for [Project 3: CSS/Typography](/css-typography)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-08-nakamura.md' and discuss in about 4 paragraphs how you believe Nakamura's citation of Lev Manovich saying "interactive media ask us to identify with someone else’s mental structure" is to be understood. Discuss one example in depth of how aspects of tools you may use (such as Gmail, Instagram, TikTok, etc) are reflections of the designer's or developer's 'mental structure' and their own identity.
@@ -187,7 +187,7 @@ DUE **Thursday, October 22**:
 #### Week of October 26, 2020: Non-linear Narratives in Digital Media
 
 DUE **Tuesday, October 27**:
-* ***VIDEO AVAILABLE on 10/19*** ~~~Watch Lecture and Tutorial: Introduction to Twine~~~
+* ***VIDEO AVAILABLE on 10/19*** ~~Watch Lecture and Tutorial: Introduction to Twine~~
 * Read the description for [Project 4: Non-linear Narrative](/non-linear-narrative)
 * Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10_week_of_10-26-2020/readings/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
 * Play [some of the twine games listed here](/week_10_week_of_10-26-2020/twineGames.md)
@@ -203,7 +203,7 @@ DUE **Thursday, October 29**:
 #### Week of November 2, 2020: Game Design for Artists, Part 1
 
 DUE **Tuesday, November 3**:
-* ***VIDEO AVAILABLE on 10/26*** ~~~Watch Lecture: Walking Simulators and Alternative Game Formats~~~
+* ***VIDEO AVAILABLE on 10/26*** ~~Watch Lecture: Walking Simulators and Alternative Game Formats~~
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_11_week_of_11-02-2020/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-11.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-10-anthropy.md' and discuss in about 4 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools
 * Push the file to your repository
@@ -214,7 +214,7 @@ DUE **Tuesday, November 3**:
 #### Week of November 9, 2020: Game Design for Artists, Part 2
 
 DUE **Tuesday, November 10**:
-* ***VIDEO AVAILABLE on 11/01*** ~~~Watch Lecture: (Non) Narratives, Flow-maps, and User Experiences~~~
+* ***VIDEO AVAILABLE on 11/01*** ~~Watch Lecture: (Non) Narratives, Flow-maps, and User Experiences~~
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_12_week_of_11-09-2020/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-11-anthopy.md' and respond with around five questions these readings brought up for you. Pick one and discuss it in about 3-4 paragraphs
 * Push the file to your repository
