@@ -213,6 +213,10 @@ DUE **Tuesday, November 3**:
 ### Week 12
 #### Week of November 9, 2020: Game Design for Artists, Part 2
 
+![My Boyfriend Came Back from the War](/my_boyfriend_came_back_from_the_war.gif)
+
+<sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
+
 DUE **Tuesday, November 10**:
 * ***VIDEO AVAILABLE on 11/01*** ~~Watch Lecture: (Non) Narratives, Flow-maps, and User Experiences~~
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_12_week_of_11-09-2020/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
