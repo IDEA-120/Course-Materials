@@ -28,7 +28,7 @@
 
 This document is the current course schedule broken down by week.
 
-In this document, under each week there are a list of assigned videos, texts, and exercises to complete by the following Tuesday or the discussion the following Thursday, along with how and where to submit assignments.  The contents of this document will be updated throughout the semester.
+In this document, under each week there are a list of assigned videos, texts, and exercises to complete for that Tuesday or the discussion on Thursday, along with how and where to submit assignments.  The contents of this document will be updated throughout the semester.
 
 ***
 
@@ -49,6 +49,7 @@ DUE **Thursday, August 27**:
 #### Week of August 31, 2020: Computing in Design and Arts Practices
 
 DUE **Tuesday, September 1**:
+* ***VIDEO AVAILABLE on 8/28*** ~~Watch Lecture: Early Computing and the Arts~~
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_08-31-2020/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 * Create [a new GitHub Account](https://github.com/join)
@@ -63,13 +64,13 @@ DUE **Tuesday, September 1**:
 #### Week of September 7, 2020: A Brief History of (Digital, and other) Media in Art
 
 DUE **Tuesday, September 8**:
-* ***VIDEO AVAILABLE on 8/30*** ~~Watch Lecture: A Brief History of the Internet and Net Art~~
+* ***VIDEO AVAILABLE on 8/31*** ~~Watch Lecture: A Brief History of the Internet and Net Art~~
 * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis', ](https://www.w3schools.com/html/default.asp)
 * Read [Chris Salter, Entangled](/week_03_week_of_09-07-2020/readings/Chris-Salter-Entangled-WEEK-03.pdf)
 * Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 3-4 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*.
  * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
 * Download and install [the Atom text editor](https://atom.io/)
-* ***VIDEO AVAILABLE on 8/30*** ~~Watch Tutorial: Installing Atom and adding a GitHub Repository~~ and complete the steps yourself with your 'idea-120-responses' repository
+* ***VIDEO AVAILABLE on 8/31*** ~~Watch Tutorial: Installing Atom and adding a GitHub Repository~~ and complete the steps yourself with your 'idea-120-responses' repository
 * Read the description for [Project 1: GitHub Poetry (due week 5)](/github-poetry) and follow the instructions there to create a GitHub pages site
 
 ***

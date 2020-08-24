@@ -65,7 +65,7 @@ Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed
 
 ### Course Outcomes
 
-* Students will demonstrate a basic understanding of how key ideas of digital media practices in design and the arts are materialized through current digital media creation tools and their underling social and technological systems.
+* Students will demonstrate a basic understanding of how key ideas of digital media practices in design and the arts are materialized through current digital media creation tools and their underlying social and technological systems.
 * Students will demonstrate an understanding of digital media resources in design and the arts.
 * Students will demonstrate an ability to use current creative digital media tools (purpose built or appropriated) and systems in design and the arts.
 * Students will demonstrate a basic understanding of how digital media practices in design and the arts (including architectural, visual, environmental, theatrical, musical, and art historical) reflects and shapes technological and cultural conditions, including questions of community, personal narrative, privacy, and security.
@@ -136,9 +136,9 @@ While a Zoom call doesn't look like a typical classroom, the same basic classroo
 
 ### Privacy Notification and Policy for Recording Discussions
 
-We will be recording the class sessions, or portions of the class, for students who are unable to attend synchronously. The recording feature for others is disabled so that no one else will be able to record this session through Zoom, Blackboard Collaborate, Webex, or Echo360. Recording by other means is not permitted. The recorded class sessions will be posted on our Blackboard class website unless otherwise notified.
+We will be recording the class sessions, or portions of the class, for students who are unable to attend synchronously. The recording feature for others is disabled so that no one else will be able to record this session through Zoom, Blackboard Collaborate, Webex, or Echo360. Recording by other means is not permitted. The recorded class sessions will be available directly to those who were unable to attend the live discussion.
 
-If you have privacy concerns and do not wish to appear in the recording, turn OFF your video and notify me in writing (via email) prior to the next class session. If you prefer to use a pseudonym instead of your name, please let me know what name you will be using, so that I can identify you during the class session. If you would like to ask a question, you may do so privately through the chat feature by addressing your question to me or your TA only (and not to “everyone”), or you may contact me or your TA by another private method, which we will agree upon in advance of class. If you have questions or concerns about this video recording policy, please contact me before the end of the first week of class.
+If you have privacy concerns and do not wish to appear in the recording, turn OFF your video and notify me in writing (via email) prior to the next class session. If you prefer to use a pseudonym instead of your name, please let me know what name you will be using, so that I can identify you during the class session. If you would like to ask a question, you may do so privately through the chat feature by addressing your question to me only (and not to “everyone”), or you may contact me by another private method, which we will agree upon in advance of class. If you have questions or concerns about this video recording policy, please contact me before the end of the first week of class.
 
 ***
 
