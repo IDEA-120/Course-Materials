@@ -22,11 +22,15 @@
 * Week 14: [Week of November 23, 2020](#week-14)
 * Week 15: [Week of November 30, 2020](#week-15)
 
+***
+
 ### Introduction and About the Schedule
 
 This document is the current course schedule broken down by week.
 
 In this document, under each week there are a list of assigned videos, texts, and exercises to complete by the following Tuesday or the discussion the following Thursday, along with how and where to submit assignments.  The contents of this document will be updated throughout the semester.
+
+***
 
 ## Unit 1: A Brief History of Digital Computing and the Arts
 
@@ -39,6 +43,8 @@ DUE **Thursday, August 27**:
 * Review [course syllabus](SYLLABUS.md)
 * Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_08-24-2020/readings/Greene_Rachel_2000_Web_Work_A_History_of_Internet_Art.pdf)
 
+***
+
 ### Week 2
 #### Week of August 31, 2020: Computing in Design and Arts Practices
 
@@ -50,6 +56,8 @@ DUE **Tuesday, September 1**:
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
 * Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-01-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem
 * 'Commit' the new file to your repository with a description
+
+***
 
 ### Week 3
 #### Week of September 7, 2020: A Brief History of (Digital, and other) Media in Art
@@ -64,7 +72,7 @@ DUE **Tuesday, September 8**:
 * Watch [Tutorial: Installing Atom and adding a GitHub Repository](vimeo.com) and complete the steps yourself with your 'idea-120-responses' repository
 * Read the description for [Project 1: GitHub Poetry (due week 5)](/github-poetry) and follow the instructions there to create a GitHub pages site
 
-
+***
 
 ### Week 4
 #### Week of September 14, 2020: Media Theory, Part 1
@@ -89,6 +97,8 @@ Collaborating with 'Pull Requests' Partner Feedback (we'll discuss the questions
 * Now go to your own 'week-03-feedback' repository and [merge the pull request your partner created when they edited your document](https://guides.github.com/activities/hello-world/#pr). This will merge your partners edits with the original 'week-03-mcluhan.md' file in your master 'idea-120-responses' repository.
 * Delete the 'week-03-feedback' branch by clicking the 'Delete Branch' button when it appears
 
+***
+
 ### Week 5
 #### Week of September 21, 2020: Media Theory, Part 2
 
@@ -102,6 +112,8 @@ DUE **Tuesday, September 22**:
 DUE **Thursday, September 24**:
 * GitHub Poetry Project critique
 * Schedule a [one-on-one meeting with me for next week (9/28, 9/29, 9/30, or 10/1) on Calendly]((https://calendly.com/jaredchrstphrkelley/15min1on1))
+
+***
 
 ## Unit 2: Digital Literacy and Online Content Creation
 
@@ -117,6 +129,8 @@ DUE **Tuesday, September 29**:
 * In Atom, create a new markdown file named 'week-05-murray.md' and save it in your 'idea-120-responses' repository project folder. In this file discuss if you believe Murray's predictions about internet television and inhabiting virtual environments were successful. How does Murray's prediction compare to the hyper-realistic virtual environments the actors of 'The Mandalorian' inhabit while acting? Name and discuss the different layers of 'reality' both the actors and the viewers experience in the production.
 * Read the description for [Project 2: Green Screen](/green-screen) and in Atom create a new markdown file called 'project-02-proposal.md' and save it to your 'idea-120-responses' repository. Write a one paragraph proposal for Project 2 that explains how you will create the feeling of immersion in green-screen background
 * Push both files to your repository
+
+***
 
 ### Week 7
 #### Week of October 5, 2020: A Series of Tubes: What is the Internet?
@@ -135,6 +149,8 @@ DUE **Tuesday, October 6**:
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-06-response.md' and discuss in about 3 paragraphs if you agree with the problems and solutions laid out by Bridle and Berners-Lee. Bridle and Berners-Lee have a specific vision for what the internet 'should be'. Do you agree with this vision?
 * Push the file to your repository
 
+***
+
 ### Week 8
 #### What is a model? Design and Algorithms
 
@@ -144,6 +160,8 @@ DUE **Tuesday, October 13**:
 * Read [Chris Gayomali, How typeface influences the way we read and think](https://theweek.com/articles/463196/how-typeface-influences-way-read-think)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-07-response.md' and discuss in about 4 paragraphs what methods outlined by O'Neil, Chalabi, and Gayomali you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
 * Push the file to your repository
+
+***
 
 ## Unit 3: Non-linear Narratives in Digital Media
 
@@ -159,6 +177,8 @@ DUE **Tuesday, October 20**:
 DUE **Thursday, October 22**:
 * Green Screen Project critique
 
+***
+
 ### Week 10
 #### Week of October 26, 2020: Non-linear Narratives in Digital Media
 
@@ -173,6 +193,8 @@ DUE **Tuesday, October 27**:
 DUE **Thursday, October 29**:
 * CSS/Typography Project critique
 
+***
+
 ### Week 11
 #### Week of November 2, 2020: Game Design for Artists, Part 1
 
@@ -180,6 +202,8 @@ DUE **Tuesday, November 3**:
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_10_week_of_10-26-2020/readings/anthropy_rise-of-videogame-zinesters-WEEK_10.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-10-anthropy.md' and discuss in about 4 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools
 * Push the file to your repository
+
+***
 
 ### Week 12
 #### Week of November 9, 2020: Game Design for Artists, Part 2
@@ -199,6 +223,8 @@ DUE **Tuesday, November 10**:
 DUE **Thursday, November 12**
 * Schedule a [one-on-one meeting with me for next week (11/16, 11/17, or 11/18) on Calendly]((https://calendly.com/jaredchrstphrkelley/15min1on1))
 
+***
+
 ### Week 13
 #### Week of November 16, 2020
 
@@ -210,6 +236,8 @@ DUE **Tuesday, November 17**:
 DUE **Thursday, November 19**:
 * Non-linear Narrative Project critique
 
+***
+
 ### Week 14
 #### Week of November 23, 2020
 
@@ -217,8 +245,12 @@ DUE **Thursday, November 19**:
 
 Continue working on your Final Portfolio Project
 
+***
+
 ### Week 15
 #### Week of November 30, 2020
 
 DUE **Thursday, December 3**:
 * Final Portfolio Project critique
+
+***
