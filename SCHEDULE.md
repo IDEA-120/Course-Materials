@@ -49,7 +49,7 @@ DUE **Thursday, August 27**:
 #### Week of August 31, 2020: Computing in Design and Arts Practices
 
 DUE **Tuesday, September 1**:
-* ***VIDEO AVAILABLE on 8/28*** ~~Watch Lecture: Early Computing and the Arts~~
+* [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_08-31-2020/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 * Create [a new GitHub Account](https://github.com/join)
