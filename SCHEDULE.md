@@ -64,13 +64,14 @@ DUE **Tuesday, September 1**:
 #### Week of September 7, 2020: A Brief History of (Digital, and other) Media in Art
 
 DUE **Tuesday, September 8**:
-* ***VIDEO AVAILABLE on 8/31*** ~~Watch Lecture: A Brief History of the Internet and Net Art~~
+* [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
+* Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
 * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis', ](https://www.w3schools.com/html/default.asp)
 * Read [Chris Salter, Entangled](/week_03_week_of_09-07-2020/readings/Chris-Salter-Entangled-WEEK-03.pdf)
-* Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 3-4 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*.
+* Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 3-4 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
  * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
 * Download and install [the Atom text editor](https://atom.io/)
-* ***VIDEO AVAILABLE on 8/31*** ~~Watch Tutorial: Installing Atom and adding a GitHub Repository~~ and complete the steps yourself with your 'idea-120-responses' repository
+* ***VIDEO AVAILABLE on 9/04*** ~~Watch Tutorial: Installing Atom and adding a GitHub Repository~~ and complete the steps yourself with your 'idea-120-responses' repository
 * Read the description for [Project 1: GitHub Poetry (due week 5)](/github-poetry) and follow the instructions there to create a GitHub pages site
 
 ***
