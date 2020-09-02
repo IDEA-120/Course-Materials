@@ -64,8 +64,12 @@ DUE **Tuesday, September 1**:
 #### Week of September 7, 2020: A Brief History of (Digital, and other) Media in Art
 
 DUE **Tuesday, September 8**:
+<<<<<<< HEAD
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
+=======
+* ***VIDEO AVAILABLE on 9/01*** ~~Watch Lecture: A Brief History of the Internet and Net Art~~
+>>>>>>> b32218da1a6acbb5bbcab56528892bf8ba89c167
 * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis', ](https://www.w3schools.com/html/default.asp)
 * Read [Chris Salter, Entangled](/week_03_week_of_09-07-2020/readings/Chris-Salter-Entangled-WEEK-03.pdf)
 * Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 3-4 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
