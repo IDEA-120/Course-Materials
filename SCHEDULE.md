@@ -71,7 +71,7 @@ DUE **Tuesday, September 8**:
 * Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 3-4 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
  * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
 * Download and install [the Atom text editor](https://atom.io/)
-* ***VIDEO AVAILABLE on 9/04*** ~~Watch Tutorial: Installing Atom and adding a GitHub Repository~~ and complete the steps yourself with your 'idea-120-responses' repository
+* [Watch Tutorial: Installing Atom and adding a GitHub Repository](vimeo.com) and complete the steps yourself with your 'idea-120-responses' repository
 * Read the description for [Project 1: GitHub Poetry (due week 5)](/github-poetry) and follow the instructions there to create a GitHub pages site
 
 ***
