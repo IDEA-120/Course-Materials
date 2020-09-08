@@ -80,7 +80,7 @@ DUE **Tuesday, September 8**:
 #### Week of September 14, 2020: Media Theory, Part 1
 
 DUE **Tuesday, September 15**:
-* ***VIDEO AVAILABLE on 9/07*** ~~Watch Lecture: Hot Media, Cool Semiotics, Part 1~~
+* ***VIDEO AVAILABLE on 9/08*** ~~Watch Lecture: Hot Media, Cool Semiotics, Part 1~~
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_09-14-2020/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_09-14-2020/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
 * In Atom, create a new markdown file named 'week-03-response.md' and save it in your 'idea-120-responses' repository
@@ -92,7 +92,7 @@ DUE **Thursday, September 17, 2020 before discussion**
 
 Collaborating with 'Pull Requests' Partner Feedback (we'll discuss the questions you write to your partner):
 * On the GitHub website create [a new branch](https://guides.github.com/activities/hello-world/#branch) in your 'idea-120-responses' repository and name it 'week-03-feedback-YOUR_GITHUB_USERNAME'
-* ***PARTNER DOC AVAILABLE on 9/07*** ~~Invite your partner to your new branch~~ 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+* ***PARTNER DOC AVAILABLE on 9/08*** ~~Invite your partner to your new branch~~ 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
 * Accept your partner's invitation to collaborate on their repository and [open their 'week-03-mcluhan.md' file](https://guides.github.com/activities/hello-world/#commit) in their 'week-03-feedback' repository and add a short reaction (around a paragraph) asking any new questions their response sparked for you
 * Write a short, genuine, reaction and ask a few questions to your partner about their response. Save the file and [commit the changes](https://guides.github.com/activities/hello-world/#commit)
 * Open a [pull request](https://guides.github.com/activities/hello-world/#pr) for your committed changes and write a short description explaining what changes you made to the document
