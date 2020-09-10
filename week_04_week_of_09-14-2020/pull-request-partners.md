@@ -10,6 +10,6 @@ This doc has your partner assignment for the [GitHub Pull Request assignment fro
 
 * Jinhao (GitHub username: [Jin-creato](https://github.com/Jin-creato)) and Maria (GitHub username: [mahmed84](https://github.com/mahmed84))
 
-* Sasha (GitHub username: [SlivinskiS](https://github.com/SlivinskiS) and Langston (GitHub username: [Langston-Neurohr](https://github.com/Langston-Neurohr))
+* Sasha (GitHub username: [SlivinskiS](https://github.com/SlivinskiS)) and Langston (GitHub username: [Langston-Neurohr](https://github.com/Langston-Neurohr))
 
 * Adrian (GitHub username: ? ) and Angel (GitHub username: [acastro](https://github.com/SlivinskiS))
