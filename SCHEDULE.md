@@ -126,32 +126,43 @@ DUE **Thursday, September 24**:
 One-on-one meetings this week before midterm grades are submitted
 
 DUE **Tuesday, September 29**:
-* ***VIDEO AVAILABLE on 9/21*** ~~Watch Lecture: Totally Regular Reorientation~~
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_09-28-2020/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
 * Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube', ](https://www.w3schools.com/html/default.asp)
 * Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
 * In Atom, create a new markdown file named 'week-05-murray.md' and save it in your 'idea-120-responses' repository project folder. In this file discuss if you believe Murray's predictions about internet television and inhabiting virtual environments were successful. How does Murray's prediction compare to the hyper-realistic virtual environments the actors of 'The Mandalorian' inhabit while acting? Name and discuss the different layers of 'reality' both the actors and the viewers experience in the production.
-* Read the description for [Project 2: Green Screen](/green-screen) and in Atom create a new markdown file called 'project-02-proposal.md' and save it to your 'idea-120-responses' repository. Write a one paragraph proposal for Project 2 that explains how you will create the feeling of immersion in green-screen background
-* Push both files to your repository
+* Push this file to your repository
+
+In-Class Lab **Tuesday, September 29**
+* Creating a website in Atom (HTML and CSS fundamentals)
+* Setting up a website in GitHub Pages
+
+In Class Discussion **Thursday, October 1**
+* Discuss Murray reading and responses
+* Briefly go over [Project 2: Green Screen](/week_06_week_of_09-28-2020/project-2_green-screen.md)
+* Visitor [Hannah Higgins](https://en.wikipedia.org/wiki/Hannah_Higgins)
 
 ***
 
 ### Week 7
-#### Week of October 5, 2020: A Series of Tubes: What is the Internet?
+#### Week of October 5, 2020: A Series of Tubes: What's wrong with the internet?
 
-**Graduate Student Mid-terms - No discussion or one-on-one sessions this week**
+**Graduate Student Mid-terms - No discussion on Thursday**
 
-DUE **Tuesday, October 6**:
-* ***VIDEO AVAILABLE on 9/28*** ~~Watch Lecture: What is the Internet?~~
-* Read [‘You Can Still Make Websites Nowadays’: A Talk with the Pioneering Internet Art Collective JODI](https://www.artnews.com/art-news/artists/can-still-make-websites-nowadays-talk-pioneering-internet-art-collective-jodi-10653/)
+DUE **Tuesday, October 6**
+* Create a new markdown file in your repository called  'project-02-proposal.md'. Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_06_week_of_09-28-2020/project-2_green-screen.md) and push it to your repository
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
-* Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)
-* Read [Tutorial: Setting up the virtual lab](/week_06_week_of_09-28-2020/readings/virtual_computer_lab_setup.pdf) and complete the steps yourself
-* ***VIDEO AVAILABLE on 9/28*** ~~Watch Tutorial: Illustrator Overview~~
-* ***VIDEO AVAILABLE on 9/28*** ~~Watch Tutorial: Photoshop Overview~~
+* **Optional** *Read [‘You Can Still Make Websites Nowadays’: A Talk with the Pioneering Internet Art Collective JODI](https://www.artnews.com/art-news/artists/can-still-make-websites-nowadays-talk-pioneering-internet-art-collective-jodi-10653/)*
+* **Optional** *Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)*
+* Complete [Tutorial: Setting up the virtual lab](/week_06_week_of_09-28-2020/readings/virtual_computer_lab_setup.pdf)
 * Read W3C's [CSS Tutorial from 'CSS Overflow' to 'CSS Specificity'](https://www.w3schools.com/css/default.asp)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-06-response.md' and discuss in about 3 paragraphs if you agree with the problems and solutions laid out by Bridle and Berners-Lee. Bridle and Berners-Lee have a specific vision for what the internet 'should be'. Do you agree with this vision?
+* Create a new markdown document in your 'idea-120-responses' folder called 'week-06-response.md' and discuss in about 2 paragraphs if you agree with the problems and solutions laid out by Bridle. Bridle has a specific vision for what the internet 'should be'. Do you agree with this vision?
 * Push the file to your repository
+
+Lab **Tuesday, October 6**
+* Adobe Premiere Editing and Chroma-Key Fundamentals
+
+DUE **Thursday, October 8**:
+* Submit improved GitHub Poetry Project by emailing me a link to your GitHub pages web address
 
 ***
 
@@ -159,12 +170,17 @@ DUE **Tuesday, October 6**:
 #### Week of October 12, 2020: What is a model? Design and Algorithms
 
 DUE **Tuesday, October 13**:
-* ***VIDEO AVAILABLE on 10/05*** ~~Watch Lecture: Alternative Data Design~~
 * Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
 * Read [Cathy O'Neil, Weapons of Math Destruction: Chapter 4](/week_08_week_of_10-12-2020/readings/Cathy-O-Neil-Weapons-Of-Math-Destruction-Chapter-4-WEEK-08.pdf)
 * Read [Chris Gayomali, How typeface influences the way we read and think](https://theweek.com/articles/463196/how-typeface-influences-way-read-think)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-07-response.md' and discuss in about 4 paragraphs what methods outlined by O'Neil, Chalabi, and Gayomali you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
+* Create a new markdown document in your 'idea-120-responses' folder called 'week-07-response.md' and discuss in about 3 paragraphs what methods outlined by O'Neil, Chalabi, and Gayomali you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
 * Push the file to your repository
+
+Lab **Tuesday, October 13**
+* Adobe Photoshop Fundamentals
+
+Discuss **Thursday, October 15**
+* Responses on O'Neil, Chalabi, Gayomali
 
 ***
 
@@ -174,11 +190,13 @@ DUE **Tuesday, October 13**:
 #### Week of October 19, 2020: Personal Digital Narrative
 
 DUE **Tuesday, October 20**:
-* ***VIDEO AVAILABLE on 10/12*** ~~Watch Lecture: Agency, Identity, and Voice in Videogames~~
 * Read [Lisa Nakamura, Digitizing Race: Introduction](/week_09_week_of_10-19-2020/readings/Lisa-Nakamura-Digitizing-Race-Intro-WEEK-09.pdf)
 * Read the description for [Project 3: CSS/Typography](/css-typography)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-08-nakamura.md' and discuss in about 4 paragraphs how you believe Nakamura's citation of Lev Manovich saying "interactive media ask us to identify with someone else’s mental structure" is to be understood. Discuss one example in depth of how aspects of tools you may use (such as Gmail, Instagram, TikTok, etc) are reflections of the designer's or developer's 'mental structure' and their own identity.
+* Create a new markdown document in your 'idea-120-responses' folder called 'week-08-nakamura.md' and discuss in about 2 paragraphs how you believe Nakamura's citation of Lev Manovich saying "interactive media ask us to identify with someone else’s mental structure" is to be understood. Discuss one example in depth of how aspects of tools you may use (such as Gmail, Instagram, TikTok, etc) are reflections of the designer's or developer's 'mental structure' and their own identity.
 * Push the file to your repository
+
+Lab **Tuesday, October 18**
+* Adobe Illustrator Overview
 
 DUE **Thursday, October 22**:
 * Green Screen Project critique
@@ -189,12 +207,14 @@ DUE **Thursday, October 22**:
 #### Week of October 26, 2020: Non-linear Narratives in Digital Media
 
 DUE **Tuesday, October 27**:
-* ***VIDEO AVAILABLE on 10/19*** ~~Watch Lecture and Tutorial: Introduction to Twine~~
 * Read the description for [Project 4: Non-linear Narrative](/non-linear-narrative)
 * Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10_week_of_10-26-2020/readings/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
 * Play [some of the twine games listed here](/week_10_week_of_10-26-2020/twineGames.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
 * Push the file to your repository
+
+Lab **Tuesday, October 18**
+* CSS/Typography Questions/Workshops
 
 DUE **Thursday, October 29**:
 * CSS/Typography Project critique
@@ -205,7 +225,6 @@ DUE **Thursday, October 29**:
 #### Week of November 2, 2020: Game Design for Artists, Part 1
 
 DUE **Tuesday, November 3**:
-* ***VIDEO AVAILABLE on 10/26*** ~~Watch Lecture: Walking Simulators and Alternative Game Formats~~
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_11_week_of_11-02-2020/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-11.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-10-anthropy.md' and discuss in about 4 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools
 * Push the file to your repository
@@ -220,12 +239,11 @@ DUE **Tuesday, November 3**:
 <sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
 
 DUE **Tuesday, November 10**:
-* ***VIDEO AVAILABLE on 11/01*** ~~Watch Lecture: (Non) Narratives, Flow-maps, and User Experiences~~
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_12_week_of_11-09-2020/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-11-anthopy.md' and respond with around five questions these readings brought up for you. Pick one and discuss it in about 3-4 paragraphs
+* Create a new markdown document in your 'idea-120-responses' folder called 'week-11-anthopy.md' and respond with around 3 questions these readings brought up for you. Pick one and discuss it in 3 paragraphs
 * Push the file to your repository
 * Read the description for [Project 5: Final Portfolio](/final-portfolio)
-* Create a new markdown document in your 'idea-120-responses' folder called 'project-05-proposal.md' and explain in about 1-2 paragraphs what content you'll include in your portfolio and how it will be organized.
+* Create a new markdown document in your 'idea-120-responses' folder called 'project-05-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
 * Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
 * Push your proposal to your repository
 * Accept my invitation to collaborate on the 'Project 5 Workshops' repository ([as was done in week 3](#week-03)) and open the 'workshop-requests.md' file. Add workshop or tutorial videos you'd like to see in Weeks 13 and 14 to this document, then commit the changes.
