@@ -105,7 +105,7 @@ Collaborating with 'Pull Requests' Partner Feedback (we'll discuss the questions
 #### Week of September 21, 2020: Media Theory, Part 2
 
 DUE **Tuesday, September 22**:
-* ***VIDEO AVAILABLE on 9/16*** ~~Watch Lecture: Hot Media, Cool Semiotics, Part 2~~
+* Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_09-21-2020/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_09-21-2020/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
 * Read [Higgins and Kahn, Mainframe Experimentalism: First Generation Poetry Generators](/week_05_week_of_09-21-2020/readings/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
