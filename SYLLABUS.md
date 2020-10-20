@@ -105,9 +105,9 @@ There are 100 possible points you can earn from the following assignments:
 
 * Github Poetry Project: 10 pts
 * Green Screen Project: 10 pts
-* CSS Typography Project: 10 pts
-* Non-linear Narrative Project: 10 pts
-* Final Portfolio Project: 20 pts
+* ~~CSS Typography Project: 10 pts~~ Project removed
+* Non-linear Narrative Project: 15 pts
+* Final Portfolio Project: 25 pts
 * Written Responses: 20 pts
 * Discussion Participation: 20 pts
 
