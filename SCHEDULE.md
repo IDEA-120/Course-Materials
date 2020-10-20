@@ -191,12 +191,9 @@ Discuss **Thursday, October 15**
 
 DUE **Tuesday, October 20**:
 * Read [Lisa Nakamura, Digitizing Race: Introduction](/week_09_week_of_10-19-2020/readings/Lisa-Nakamura-Digitizing-Race-Intro-WEEK-09.pdf)
-* Read the description for [Project 3: CSS/Typography](/css-typography)
+* ~~Read the description for Project 3: CSS/Typography(/css-typography)~~ We aren't doing this project. We will now have more time for project 4 instead.
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-08-nakamura.md' and discuss in about 2 paragraphs how you believe Nakamura's citation of Lev Manovich saying "interactive media ask us to identify with someone else’s mental structure" is to be understood. Discuss one example in depth of how aspects of tools you may use (such as Gmail, Instagram, TikTok, etc) are reflections of the designer's or developer's 'mental structure' and their own identity.
 * Push the file to your repository
-
-Lab **Tuesday, October 18**
-* Adobe Illustrator Overview
 
 DUE **Thursday, October 22**:
 * Green Screen Project critique
@@ -213,11 +210,13 @@ DUE **Tuesday, October 27**:
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
 * Push the file to your repository
 
-Lab **Tuesday, October 18**
-* CSS/Typography Questions/Workshops
+Lab **Tuesday, October 27**
+* ~~CSS/Typography Questions/Workshops~~
+* Introduction to Twine Workshop - [a tool for making non-linear games](https://twinery.org/) 
 
 DUE **Thursday, October 29**:
-* CSS/Typography Project critique
+* ~~CSS/Typography Project critique~~
+* Discussion and Project 4 questions
 
 ***
 
