@@ -204,7 +204,7 @@ DUE **Thursday, October 22**:
 #### Week of October 26, 2020: Non-linear Narratives in Digital Media
 
 DUE **Tuesday, October 27**:
-* ***AVAILABLE THURSDAY 10/22*** ~~Read the description for Project 4: Non-linear Narrative~~
+* [Read the description for Project 4: Non-linear Narrative](/week_10_week_of_10-26-2020/project-4_non-linear-narrative.md)
 * Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10_week_of_10-26-2020/readings/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
 * Play [some of the twine games listed here](/week_10_week_of_10-26-2020/twineGames.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
