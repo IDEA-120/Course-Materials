@@ -3,9 +3,9 @@
 
 >#### portfolio (noun)
 1. a large, thin, flat case for loose sheets of paper such as drawings or maps.  
- - "under his arm he carried a large portfolio of drawings"  
+ - "under her arm he carried a large portfolio of drawings"  
 2. a set of pieces of creative work collected by someone to display their skills, especially to a potential employer.
- - "she had a portfolio of crayon portraits"
+ - "he had a portfolio of crayon portraits"
 
 What is the purpose of a *portfolio*? A portfolio for artists, designers, and other media professionals is often *their proof of qualification* for a specific job, grant, or application.
 
