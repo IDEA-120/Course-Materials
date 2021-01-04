@@ -1,12 +1,12 @@
 # IDEA 120: Digital Practices in Art and Design
-### Syllabus for Fall 2020
+### Syllabus for Spring 2021
 
 ![Alison Knowles, House of Dust](knowles_house_of_dust.png)
 <sup>*Excerpt from [Alison Knowles 'House of Dust'](https://www.damnmagazine.net/2016/09/07/the-house-of-dust-by-alison-knowles/)*</sup>
 
 #### Contents
 * [Introduction and About the Syllabus](#introduction-and-about-the-syllabus)
-* [Course Format, Zoom Meeting Details](#course-format-zoom-meeting-details)
+* [Course Format, Zoom Office Hours](#course-format-zoom-office-hours)
 * [Instructor](#instructor)
 * [Office Hours, One on One Meetings](#office-hours-one-on-one-meetings)
 * [Course Description](#course-description)
@@ -16,8 +16,7 @@
 * [Git, GitHub](#git-github)
 * [Assignments and Grading](#assignments-and-grading)
 * [Revision Policy](#revision-policy)
-* [Attendance, Participation, and Zoom Expectations](#attendance-participation-and-zoom-expectations)
-* [Privacy Notification and Policy for Recording Discussions](#privacy-notification-and-policy-for-recording-discussions)
+* [Course Expectations and Course Assignment Policy](#course-expectations-and-course-assignment-policy)
 * [Disability Accommodation](#disability-accommodation)
 * [COVID-19 Safety Protocols and Policies](#covid-19-safety-protocols-and-policies)
 
@@ -33,23 +32,21 @@ This document is the current syllabus with the course description, expectations,
 
 ### Course Format, Zoom Meeting Details
 
-IDEA 120 is an [asynchronous class](https://en.wikipedia.org/wiki/Asynchronous_learning) with once weekly discussions on Thursdays from 9:30 am to 10:45 am via Zoom.
+IDEA 120 is an [asynchronous class](https://en.wikipedia.org/wiki/Asynchronous_learning) with once weekly open office hours. One-on-one meetings can be scheduled through Calendly (see info below).
 
 Extensive computer and internet use is required. If you do not have access to a laptop, [you may request to borrow one from the university](https://accc.uic.edu/online-learning/online-learning-students/basic-requirements-students/technology-tools-students/).
-
-Current Zoom meeting info [is in our Blackboard course under 'Announcements'](https://uic.blackboard.com/).
 
 ***
 
 ### Instructor
 
-Jared Kelley / Graduate Instructor, MFA in New Media / [jkelle28@uic.edu](mailto:jkelle28@uic.edu) / [jaredckelley.com](http://jaredckelley.com)
+Dr. Tiffany Funk / Visiting Assistant Professor of IDEAS (Interdisciplinary Education in the Arts) / [tfunk4@uic.edu](mailto:tfunk4@uic.edu) / [tiffanyfunk.com](http://tiffanyfunk.com)
 
 ***
 
 ### Office Hours, One on One Meetings
 
-[Schedule a one on one appointment with me using Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
+[Schedule a one on one appointment with me using Calendly](http://calendly.com/tfunk4/office-hours-meeting)
 
 ***
 
@@ -74,11 +71,11 @@ Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed
 
 ### Assessment Methods
 
-* Short projects, class readings, and class discussion will evaluate students’ understanding of how key ideas of digital media practices in design and arts disciplines are materialized through current digital tools and systems.
+* Short projects and class readings will evaluate students’ understanding of how key ideas of digital media practices in design and arts disciplines are materialized through current digital tools and systems.
 * Short projects will evaluate students’ understanding of digital media resources in design and arts disciplines.
 * Short projects will evaluate the students’ ability to use current digital media tools and systems in design and arts disciplines.
 * A website project will evaluate students’ ability to apply computer programming concepts.
-* Assigned readings, videos to watch, audio to listen to, and weekly discussions will challenge students to think critically about how digital media practices in design and the arts shape technological and cultural conditions in relation to questions of community, personal narrative, privacy, and security.
+* Assigned readings, videos to watch, and audio to listen to will challenge students to think critically about how digital media practices in design and the arts shape technological and cultural conditions in relation to questions of community, personal narrative, privacy, and security.
 
 ***
 
@@ -94,7 +91,7 @@ We will make extensive use of Git and GitHub to post writing responses, project 
 
 [Git](https://en.wikipedia.org/wiki/Git) is a file management system primarily used by programmers in software development (and also used by artists, writers, designers, scientists, among many others) that allows them to manage their projects as "repositories" or all-inclusive packages that can be managed and new versions updated ("pushed" to a server) easily. [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a web service that hosts these repositories. GitHub uses Git, but Git does not necessarily use GitHub.
 
-A free GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me at jkelle28@uic.edu](mailto:jkelle28@uic.edu) with your GitHub username.
+A free GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me at tfunk4@uic.edu](mailto:tfunk4@uic.edu) with your GitHub username.
 
 ***
 
@@ -103,42 +100,23 @@ A free GitHub account is required for this class. [Create an account here](https
 
 There are 100 possible points you can earn from the following assignments:
 
-* Github Poetry Project: 10 pts
-* Green Screen Project: 10 pts
-* ~~CSS Typography Project: 10 pts~~ Project removed
-* Non-linear Narrative Project: ~~10~~ 15 pts
-* Final Portfolio Project: ~~20~~ 25 pts
-* Written Responses: 20 pts
-* Discussion Participation: 20 pts
+* Github Poetry Project: 15 pts
+* Green Screen Project: 20 pts
+* Non-linear Narrative Project: 20 pts
+* Final Portfolio Project: 25 pts
+* Additional Written Responses: 20 pts
 
 ***
 
 ### Revision Policy
 
-After project critiques, you will have the chance to revise your assignments using what you've learned in our discussion. Revised projects can be submitted directly to me by pushing the updated changes to our GitHub repository.
+After you turn in projects and receive feedback, you will have the chance to revise your assignments using what you've learned. Revised projects can be submitted directly to me by pushing the updated changes to our GitHub repository.
 
 ***
 
-### Attendance, Participation, and Zoom Expectations
+### Course Expectations and Course Assignment Policy
 
-This is a four hour course, with one contact hour per week in the form of Thursday discussions. You should expect to read, watch, or listen to around 3 hours of required course materials per week, in addition to the time it will take to complete assignments. Attendance for all discussions is required.
-
-While a Zoom call doesn't look like a typical classroom, the same basic classroom courtesies apply.
-
-* Keep your video on (see next section for allowed exceptions). Turning off your video is the same as leaving early, or not showing up.
-* As much as you're able to, please keep your audio unmuted. Ensure you're in a quiet space where you can focus and be present in our discussions. If classmates are distracted by your background noise, you probably are, too.
-* Don't meet with us from your bed, and please do not lay down during our discussions.
-* Within reason, get up and move around to pace, stretch, and reenergize yourself if you want or need to. Don't feel like you have to stare into the camera the entire time.
-* Consider [hiding your own video from yourself](https://support.zoom.us/hc/en-us/articles/115001077226-Hiding-or-showing-my-video-on-my-display#:~:text=Start%20or%20join%20a%20Zoom,see%20the%20video%20of%20you.) to minimize [Zoom fatigue](https://hbr.org/2020/04/how-to-combat-zoom-fatigue).
-* Do complete all readings and be prepared to participate in discussions. This is a significant portion of your grade.
-
-***
-
-### Privacy Notification and Policy for Recording Discussions
-
-We will be recording the class sessions, or portions of the class, for students who are unable to attend synchronously. The recording feature for others is disabled so that no one else will be able to record this session through Zoom, Blackboard Collaborate, Webex, or Echo360. Recording by other means is not permitted. The recorded class sessions will be available directly to those who were unable to attend the live discussion.
-
-If you have privacy concerns and do not wish to appear in the recording, turn OFF your video and notify me in writing (via email) prior to the next class session. If you prefer to use a pseudonym instead of your name, please let me know what name you will be using, so that I can identify you during the class session. If you would like to ask a question, you may do so privately through the chat feature by addressing your question to me only (and not to “everyone”), or you may contact me by another private method, which we will agree upon in advance of class. If you have questions or concerns about this video recording policy, please contact me before the end of the first week of class.
+This is a four hour course. You should expect to read, watch, or listen to around 4 hours of required course materials per week, in addition to the time it will take to complete assignments. Because of the pace of the course, completing assignments on time is crucial for success.
 
 ***
 

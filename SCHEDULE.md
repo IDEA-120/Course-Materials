@@ -6,8 +6,8 @@
 
 #### Contents
 * [Introduction and About the Schedule](#introduction-and-about-the-schedule)
-* Week 1: [Week of January 11, 2020](#week-1)
-* Week 2: [Week of January 18, 2020](#week-2)
+* Week 1: [Week of January 11, 2021](#week-1)
+* Week 2: [Week of January 18, 2021](#week-2)
 * Week 3: [Week of January 25, 2021](#week-3)
 * Week 4: [Week of February 1, 2021](#week-4)
 * Week 5: [Week of February 8, 2021](#week-5)
@@ -48,7 +48,7 @@ DUE **Thursday, January 14**:
 ***
 
 ### Week 2
-#### Week of August 31, 2020: Computing in Design and Arts Practices
+#### Week of January 18, 2021: Computing in Design and Arts Practices
 
 DUE **Tuesday, September 1**:
 * [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
@@ -63,7 +63,7 @@ DUE **Tuesday, September 1**:
 ***
 
 ### Week 3
-#### Week of September 7, 2020: A Brief History of (Digital, and other) Media in Art
+#### Week of January 25, 2021: A Brief History of (Digital, and other) Media in Art
 
 DUE **Tuesday, September 8**:
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
@@ -79,7 +79,7 @@ DUE **Tuesday, September 8**:
 ***
 
 ### Week 4
-#### Week of September 14, 2020: Media Theory, Part 1
+#### Week of February 1, 2021: Media Theory, Part 1
 
 DUE **Tuesday, September 15**:
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
