@@ -38,7 +38,7 @@ In this document, under each week there are a list of assigned videos, texts, an
 ### Week 1
 #### Week of January 11, 2021: Course Introduction
 
-This first week we will be meeting on Tuesday to Review the Syllabus and you will get your first lecture, reading, and assignments.
+This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 14, via Zoom. Zoom invite details are on Blackboard.
 
 DUE **Thursday, January 14**:
 * Review [course syllabus](SYLLABUS.md)
