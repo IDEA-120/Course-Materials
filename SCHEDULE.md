@@ -16,7 +16,7 @@
 * Week 8: [Week of March 1, 2021](#week-8)
 * Week 9: [Week of March 8, 2021](#week-9)
 * Week 10: [Week of March 15, 2021](#week-10)
-* Week 11: [Week of March 22, 2021](#week-11)
+* Week 11: [SPRING BREAK - no class](#week-11)
 * Week 12: [Week of March 29, 2021](#week-12)
 * Week 13: [Week of April 5, 2021](#week-13)
 * Week 14: [Week of April 12, 2021](#week-14)
@@ -50,12 +50,12 @@ DUE **Thursday, January 14**:
 ### Week 2
 #### Week of January 18, 2021: Computing in Design and Arts Practices
 
-DUE **Tuesday, September 1**:
+DUE **Thursday, January 21**:
 * [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
-* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_08-31-2020/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
+* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_01-18-2021/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 * Create [a new GitHub Account](https://github.com/join)
-* Email your GitHub username to: [jkelle28@uic.edu](mailto:jkelle28@uic.edu)
+* Email your GitHub username to: [tfunk4@uic.edu](mailto:tfunk4@uic.edu)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
 * Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-01-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images
 * 'Commit' the new file to your repository with a description
@@ -65,36 +65,36 @@ DUE **Tuesday, September 1**:
 ### Week 3
 #### Week of January 25, 2021: A Brief History of (Digital, and other) Media in Art
 
-DUE **Tuesday, September 8**:
+DUE **Thursday, January 28**:
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
 * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
-* Read [Chris Salter, Entangled](/week_03_week_of_09-07-2020/readings/Chris-Salter-Entangled-WEEK-03.pdf)
+* Read [Chris Salter, Entangled](/week_03_week_of_01-25-2021/readings/Chris-Salter-Entangled-WEEK-03.pdf)
 * Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 3-4 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
  * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
 * Download and install [the Atom text editor](https://atom.io/)
 * [Watch Tutorial: Installing Atom and adding a GitHub Repository](https://vimeo.com/454929880/e8fca32290) and complete the steps yourself with your 'idea-120-responses' repository
-* Read the description for [Project 1: GitHub Poetry (due week 5)](/week_05_week_of_09-21-2020/project-1-github-poetry.md) and follow the instructions there to create a GitHub pages site
+* Read the description for [Project 1: GitHub Poetry (due week 5)](/week_05_week_of_02-08-2021/project-1-github-poetry.md) and follow the instructions there to create a GitHub pages site
 
 ***
 
 ### Week 4
 #### Week of February 1, 2021: Media Theory, Part 1
 
-DUE **Tuesday, September 15**:
+DUE **Thursday, February 4**:
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
-* Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_09-14-2020/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
-* Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_09-14-2020/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
+* Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
+* Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_02-01-2021/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
 * In Atom, create a new markdown file named 'week-03-response.md' and save it in your 'idea-120-responses' repository
 * In this response provide an example of a kind of image that would be read differently if it were seen in another medium (for example, posts by Instagram 'influencers', food photography, or [click-bait news articles](https://en.wikipedia.org/wiki/Clickbait)). What are the 'three messages' (as laid out by Barthes) this kind of image contains?  
 * Save the file and ['stage all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
 * Read W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
 
-DUE **Thursday, September 17, 2020 before discussion**
+DUE **Monday, February 8, 2021**:
 
-Collaborating with 'Pull Requests' Partner Feedback (we'll discuss the questions you write to your partner):
+Collaborating with 'Pull Requests' Classmate Feedback (we'll discuss the questions you write to your classmate):
 * On the GitHub website create [a new branch](https://guides.github.com/activities/hello-world/#branch) in your 'idea-120-responses' repository and name it 'week-03-feedback-YOUR_GITHUB_USERNAME'
-* [See who your partner is at this doc](/week_04_week_of_09-14-2020/pull-request-partners.md) and invite your partner to your new 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+* [See who your partner is at this doc](/week_04_week_of_02-01-2021/pull-request-partners.md) and invite your partner to your new 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
 * Accept your partner's invitation to collaborate on their repository and [open their 'week-03-mcluhan.md' file](https://guides.github.com/activities/hello-world/#commit) in their 'week-03-feedback' repository and add a short reaction (around a paragraph) asking any new questions their response sparked for you
 * Write a short, genuine, reaction and ask a few questions to your partner about their response. Save the file and [commit the changes](https://guides.github.com/activities/hello-world/#commit)
 * Open a [pull request](https://guides.github.com/activities/hello-world/#pr) for your committed changes and write a short description explaining what changes you made to the document
@@ -104,17 +104,17 @@ Collaborating with 'Pull Requests' Partner Feedback (we'll discuss the questions
 ***
 
 ### Week 5
-#### Week of September 21, 2020: Media Theory, Part 2
+#### Week of February 8, 2021: Media Theory, Part 2
 
-DUE **Tuesday, September 22**:
+DUE **Thursday, February 11**:
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
-* Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_09-21-2020/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
-* Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_09-21-2020/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
-* Read [Higgins and Kahn, Mainframe Experimentalism: First Generation Poetry Generators](/week_05_week_of_09-21-2020/readings/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
+* Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_02-08-2021/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
+* Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
+* Read [Higgins and Kahn, Mainframe Experimentalism: First Generation Poetry Generators](/week_05_week_of_02-08-2021/readings/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
 * In Atom, create a new markdown file named 'week-04-o-neil.md' and save it in your 'idea-120-responses' repository project folder. In this file give an example in about 3 paragraphs of a 'WMD' as O'Neil describes it.
 * Push this file to your repository
 
-DUE **Thursday, September 24**:
+DUE **Monday, February 15**:
 * GitHub Poetry Project critique
 * Schedule a [one-on-one meeting with me for next week (9/28, 9/29, 9/30, or 10/1) on Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
 
@@ -223,6 +223,9 @@ DUE **Thursday, October 29**:
 ***
 
 ### Week 11
+#### Week of March 22, 2020: SPRING BREAK!
+
+### Week 12
 #### Week of November 2, 2020: Game Design for Artists, Part 1
 
 DUE **Tuesday, November 3**:
@@ -232,7 +235,7 @@ DUE **Tuesday, November 3**:
 
 ***
 
-### Week 12
+### Week 13
 #### Week of November 9, 2020: Game Design for Artists, Part 2
 
 ![My Boyfriend Came Back from the War](/my_boyfriend_came_back_from_the_war.gif)
@@ -256,7 +259,7 @@ DUE **Thursday, November 12**
 
 ***
 
-### Week 13
+### Week 14
 #### Week of November 16, 2020
 
 One-on-one meetings this week before Non-linear Narrative critique
