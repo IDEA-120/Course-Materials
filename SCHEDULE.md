@@ -22,7 +22,6 @@
 * Week 14: [Week of April 12, 2021](#week-14)
 * Week 15: [Week of April 19, 2021](#week-15)
 * Week 16: [Week of April 26, 2021](#week-16)
-* Finals Week: [Week of May 3, 2021](#finals)
 
 ***
 
@@ -30,7 +29,7 @@
 
 This document is the current course schedule broken down by week.
 
-In this document, under each week there are a list of assigned videos, texts, and exercises to complete for that Tuesday or the discussion on Thursday, along with how and where to submit assignments.  The contents of this document will be updated throughout the semester.
+In this document, under each week there are a list of assigned videos, texts, and exercises to complete for that Thursday (by midnight), along with how and where to submit assignments. The contents of this document will be updated throughout the semester.
 
 ***
 
