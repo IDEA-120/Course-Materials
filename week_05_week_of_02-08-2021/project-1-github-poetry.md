@@ -1,9 +1,9 @@
 # Project 1: GitHub Poetry
 
 ## Project Description and Criteria
-### Due Thursday, September 24th (week 5)
+**Due Thursday, February 11, 2021 (week 5)**
 
-Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](/week_05_week_of_09-21-2020/readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
+Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](/week_05_week_of_02-08-2021/readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
 
 Consider what "uncreative writing" means, the rules of "flarf," and how it may be considered a type of generative web art. What kinds of webpages could be produced using randomized rules such as these? Using the Atom text editor and your GitHub account to create a Flarf poem based on these rules:
 
@@ -21,4 +21,4 @@ Consider what "uncreative writing" means, the rules of "flarf," and how it may b
 
 ## If you need one-on-one help
 
-If you need one-on-one help with this project, [schedule a one on one appointment with me using Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
+If you need one-on-one help with this project, [schedule a one on one appointment with me using Calendly](https://calendly.com/tfunk4/office-hours-meeting)

@@ -135,6 +135,7 @@ DUE **Thursday, February 18**:
 * Push this file to your repository
 
 Optional In-Class Lab **Thursday, February 18, 9:30-11:00AM**
+* Zoom link details in blackboard
 * Creating a website in Atom (HTML and CSS fundamentals)
 * Setting up a website in GitHub Pages
 * Tutorial will be recorded and shared with the class
@@ -142,11 +143,9 @@ Optional In-Class Lab **Thursday, February 18, 9:30-11:00AM**
 ***
 
 ### Week 7
-#### Week of October 5, 2020: A Series of Tubes: What's wrong with the internet?
+#### Week of February 22, 2021: A Series of Tubes: What's wrong with the internet?
 
-**Graduate Student Mid-terms - No discussion on Thursday**
-
-DUE **Tuesday, October 6**
+DUE **Thursday, February 25**
 * Review [Project 2: Green Screen](/week_06_week_of_09-28-2020/project-2_green-screen.md) expectations.
 * Create a new markdown file in your repository called  'project-02-proposal.md'. Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_06_week_of_09-28-2020/project-2_green-screen.md) and push it to your repository
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
@@ -157,129 +156,120 @@ DUE **Tuesday, October 6**
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-06-response.md' and discuss in about 2 paragraphs if you agree with the problems and solutions laid out by Bridle. Bridle has a specific vision for what the internet 'should be'. Do you agree with this vision?
 * Push the file to your repository
 
-DUE **Thursday, October 8**:
+DUE **Monday, March 1**:
 * Submit improved GitHub Poetry Project by emailing me a link to your GitHub pages web address
 
 ***
 
 ### Week 8
-#### Week of October 12, 2020: What is a model? Design and Algorithms
+#### Week of March 1, 2021: What is a model? Design and Algorithms
 
-DUE **Tuesday, October 13**:
+DUE **Thursday, March 4**:
 * Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
-* Read [Cathy O'Neil, Weapons of Math Destruction: Chapter 4](/week_08_week_of_10-12-2020/readings/Cathy-O-Neil-Weapons-Of-Math-Destruction-Chapter-4-WEEK-08.pdf)
+* Read [Cathy O'Neil, Weapons of Math Destruction: Chapter 4](/week_08_week_of_03-01-2021/readings/Cathy-O-Neil-Weapons-Of-Math-Destruction-Chapter-4-WEEK-08.pdf)
 * Read [Chris Gayomali, How typeface influences the way we read and think](https://theweek.com/articles/463196/how-typeface-influences-way-read-think)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-07-response.md' and discuss in about 3 paragraphs what methods outlined by O'Neil, Chalabi, and Gayomali you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
 * Push the file to your repository
 
-Lab **Tuesday, October 13**
+Optional In-Class Lab **Thursday, March 4, 9:30-11:00AM**
+* Zoom link details in blackboard
 * Adobe Photoshop Fundamentals
-
-Discuss **Thursday, October 15**
-* Responses on O'Neil, Chalabi, Gayomali
+* Tutorial will be recorded and shared with the class via Github
 
 ***
 
 ## Unit 3: Non-linear Narratives in Digital Media
 
 ### Week 9
-#### Week of October 19, 2020: Personal Digital Narrative
+#### Week of March 8, 2021: Personal Digital Narrative
 
-DUE **Tuesday, October 20**:
-* Read [Lisa Nakamura, Digitizing Race: Introduction](/week_09_week_of_10-19-2020/readings/Lisa-Nakamura-Digitizing-Race-Intro-WEEK-09.pdf)
-* ~~Read the description for Project 3: CSS/Typography(/css-typography)~~ We aren't doing this project. We will now have more time for project 4 instead.
+DUE **Thursday, March 11**:
+* Read [Lisa Nakamura, Digitizing Race: Introduction](/week_09_week_of_03-08-2021/readings/Lisa-Nakamura-Digitizing-Race-Intro-WEEK-09.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-08-nakamura.md' and discuss in about 2 paragraphs how you believe Nakamura's citation of Lev Manovich saying "interactive media ask us to identify with someone else’s mental structure" is to be understood. Discuss one example in depth of how aspects of tools you may use (such as Gmail, Instagram, TikTok, etc) are reflections of the designer's or developer's 'mental structure' and their own identity.
 * Push the file to your repository
 
-DUE **Thursday, October 22**:
-* Green Screen Project critique
+DUE **Thursday, March 11**:
+* Green Screen Project DUE
 
 ***
 
 ### Week 10
-#### Week of October 26, 2020: Non-linear Narratives in Digital Media
+#### Week of March 15, 2021: Non-linear Narratives in Digital Media
 
-DUE **Tuesday, October 27**:
-* [Read the description for Project 4: Non-linear Narrative](/week_10_week_of_10-26-2020/project-4_non-linear-narrative.md)
-* Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10_week_of_10-26-2020/readings/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
-* Play [some of the twine games listed here](/week_10_week_of_10-26-2020/twineGames.md)
+DUE **Thursday, March 18**:
+* [Read the description for Project 4: Non-linear Narrative](/week_10_week_of_03-15-2021/project-4_non-linear-narrative.md)
+* Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10_week_of_03-15-2021/readings/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
+* Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
 * Push the file to your repository
 
-Lab **Tuesday, October 27**
-* ~~CSS/Typography Questions/Workshops~~
+Optional In-Class Lab **Thursday, March 18, 9:30-11:00AM**
+* Zoom link details in blackboard
 * Introduction to Twine Workshop - [a tool for making non-linear games](https://twinery.org/)
-
-DUE **Thursday, October 29**:
-* ~~CSS/Typography Project critique~~
-* Discussion and Project 4 questions
+* Tutorial will be recorded and shared with the class
 
 ***
 
 ### Week 11
-#### Week of March 22, 2020: SPRING BREAK!
+#### Week of March 22, 2021: SPRING BREAK!
 
 ### Week 12
-#### Week of November 2, 2020: Game Design for Artists, Part 1
+#### Week of March 29, 2021: Game Design for Artists, Part 1
 
-DUE **Tuesday, November 3**:
-* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_11_week_of_11-02-2020/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-11.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-10-anthropy.md' and discuss in about 4 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools
+DUE **Thursday, April 1**:
+* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_12_week_of_03-29-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-12.pdf)
+* Create a new markdown document in your 'idea-120-responses' folder called 'week-12-anthropy.md' and discuss in about 4 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools
 * Push the file to your repository
 
 ***
 
 ### Week 13
-#### Week of November 9, 2020: Game Design for Artists, Part 2
+#### Week of April 5, 2021: Game Design for Artists, Part 2
 
 ![My Boyfriend Came Back from the War](/my_boyfriend_came_back_from_the_war.gif)
 
 <sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
 
-DUE **Tuesday, November 10**:
-* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_12_week_of_11-09-2020/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-11-anthopy.md' and respond with around 3 questions these readings brought up for you. Pick one and discuss it in 3 paragraphs
+DUE **Thursday, April 8**:
+* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_13_week_of_04-05-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-13.pdf)
+* Create a new markdown document in your 'idea-120-responses' folder called 'week-13-anthopy.md' and respond with around 3 questions these readings brought up for you. Pick one and discuss it in 3 paragraphs
 * Push the file to your repository
-* Read the description for [Project 5: Personal Portfolio](week_12_week_of_11-09-2020/project-5_personal-portfolio.md)
-* Create a new markdown document in your 'idea-120-responses' folder called 'project-05-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
+* Read the description for [Project 5: Personal Portfolio](week_13_week_of_04-05-2021/project-5_personal-portfolio.md)
+* Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
 * Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
 * Push your proposal to your repository
-* Accept my invitation to collaborate on the 'Project 5 Workshops' repository ([as was done in week 3](#week-03)) and open the 'workshop-requests.md' file. Add workshop or tutorial videos you'd like to see in Weeks 13 and 14 to this document, then commit the changes.
+* Accept my invitation to collaborate on the 'Project 4 Workshops' repository ([as was done in week 3](#week-03)) and open the 'workshop-requests.md' file. Add workshop or tutorial videos you'd like to see in Weeks 13 and 14 to this document, then commit the changes.
 * Open a pull request for these committed changes and write a short description.
 * I will merge the changes to the main document as people add them.
 
-DUE **Thursday, November 12**
-* Schedule a [one-on-one meeting with me for next week (11/16, 11/17, or 11/18) on Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
+DUE **Thursday, April 8**
+* Schedule a [one-on-one meeting with me for next week (04/12, 04/14, or 04/15) on Calendly](https://calendly.com/tfunk4/office-hours-meeting)
 
 ***
 
 ### Week 14
-#### Week of November 16, 2020
+#### Week of April 12, 2021
 
-One-on-one meetings this week before Non-linear Narrative critique
+One-on-one meetings this week before Non-linear Narrative DUE
 
-DUE **Tuesday, November 17**:
+DUE **Thursday, April 15**:
 * Watch your requested workshop(s) and continue working on your Non-linear Narrative Project
-
-DUE **Thursday, November 19**:
-* Non-linear Narrative Project critique
+* Non-linear Narrative Project DUE
 
 ***
 
-### Week 14
-#### Week of November 23, 2020
-
-**Thanksgiving Week**: No Thursday discussion this week
+### Week 15
+#### Week of April 19, 2021
 
 Continue working on your Final Portfolio Project
 
 ***
 
-### Week 15
-#### Week of November 30, 2020
+### Week 16
+#### Week of April 26, 2021
 
-DUE **Thursday, December 3**:
-* Final Portfolio Project critique
+DUE **Thursday, April 29**:
+* Final Portfolio Project
 
 ***
 
