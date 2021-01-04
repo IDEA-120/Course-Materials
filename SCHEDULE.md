@@ -115,33 +115,29 @@ DUE **Thursday, February 11**:
 * Push this file to your repository
 
 DUE **Monday, February 15**:
-* GitHub Poetry Project critique
-* Schedule a [one-on-one meeting with me for next week (9/28, 9/29, 9/30, or 10/1) on Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
+* Final GitHub Poetry Project DUE
+* Schedule a [one-on-one meeting with me for next week (02/15, 02/17, 02/18, or 02/19) on Calendly](https://calendly.com/tfunk4/office-hours-meeting)
 
 ***
 
 ## Unit 2: Digital Literacy and Online Content Creation
 
 ### Week 6
-#### Week of September 28, 2020: Digital Un-realities
+#### Week of February 15, 2021: Digital Un-realities
 
 One-on-one meetings this week before midterm grades are submitted
 
-DUE **Tuesday, September 29**:
-* Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_09-28-2020/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
+DUE **Thursday, February 18**:
+* Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_02-15-2021/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
 * Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube', ](https://www.w3schools.com/html/default.asp)
 * Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
 * In Atom, create a new markdown file named 'week-05-murray.md' and save it in your 'idea-120-responses' repository project folder. In this file discuss if you believe Murray's predictions about internet television and inhabiting virtual environments were successful. How does Murray's prediction compare to the hyper-realistic virtual environments the actors of 'The Mandalorian' inhabit while acting? Name and discuss the different layers of 'reality' both the actors and the viewers experience in the production.
 * Push this file to your repository
 
-In-Class Lab **Tuesday, September 29**
+Optional In-Class Lab **Thursday, February 18, 9:30-11:00AM**
 * Creating a website in Atom (HTML and CSS fundamentals)
 * Setting up a website in GitHub Pages
-
-In Class Discussion **Thursday, October 1**
-* Discuss Murray reading and responses
-* Briefly go over [Project 2: Green Screen](/week_06_week_of_09-28-2020/project-2_green-screen.md)
-* Visitor [Hannah Higgins](https://en.wikipedia.org/wiki/Hannah_Higgins)
+* Tutorial will be recorded and shared with the class
 
 ***
 
@@ -151,6 +147,7 @@ In Class Discussion **Thursday, October 1**
 **Graduate Student Mid-terms - No discussion on Thursday**
 
 DUE **Tuesday, October 6**
+* Review [Project 2: Green Screen](/week_06_week_of_09-28-2020/project-2_green-screen.md) expectations.
 * Create a new markdown file in your repository called  'project-02-proposal.md'. Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_06_week_of_09-28-2020/project-2_green-screen.md) and push it to your repository
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 * **Optional** *Read [‘You Can Still Make Websites Nowadays’: A Talk with the Pioneering Internet Art Collective JODI](https://www.artnews.com/art-news/artists/can-still-make-websites-nowadays-talk-pioneering-internet-art-collective-jodi-10653/)*
@@ -159,9 +156,6 @@ DUE **Tuesday, October 6**
 * Read W3C's [CSS Tutorial from 'CSS Overflow' to 'CSS Specificity'](https://www.w3schools.com/css/default.asp)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-06-response.md' and discuss in about 2 paragraphs if you agree with the problems and solutions laid out by Bridle. Bridle has a specific vision for what the internet 'should be'. Do you agree with this vision?
 * Push the file to your repository
-
-Lab **Tuesday, October 6**
-* Adobe Premiere Editing and Chroma-Key Fundamentals
 
 DUE **Thursday, October 8**:
 * Submit improved GitHub Poetry Project by emailing me a link to your GitHub pages web address
