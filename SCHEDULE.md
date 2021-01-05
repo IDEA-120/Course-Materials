@@ -69,7 +69,7 @@ DUE **Thursday, January 28**:
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
 * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
 * Read [Chris Salter, Entangled](/week_03_week_of_01-25-2021/readings/Chris-Salter-Entangled-WEEK-03.pdf)
-* Respond to the reading by creating a new markdown file named 'week-02-salter.md' in your 'idea-120-responses' repository and write 3-4 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that would be *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
+* Respond to the reading by creating a new markdown file named 'week-03-salter.md' in your 'idea-120-responses' repository and write 2-3 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that could be considered a *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
  * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
 * Download and install [the Atom text editor](https://atom.io/)
 * [Watch Tutorial: Installing Atom and adding a GitHub Repository](https://vimeo.com/454929880/e8fca32290) and complete the steps yourself with your 'idea-120-responses' repository
@@ -91,9 +91,9 @@ DUE **Thursday, February 4**:
 
 DUE **Monday, February 8, 2021**:
 
-Collaborating with 'Pull Requests' Classmate Feedback (we'll discuss the questions you write to your classmate):
+Collaborating with 'Pull Requests' Classmate Feedback:
 * On the GitHub website create [a new branch](https://guides.github.com/activities/hello-world/#branch) in your 'idea-120-responses' repository and name it 'week-03-feedback-YOUR_GITHUB_USERNAME'
-* [See who your partner is at this doc](/week_04_week_of_02-01-2021/pull-request-partners.md) and invite your partner to your new 'week-03-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+* [See who your partner is at this doc](/week_04_week_of_02-01-2021/pull-request-partners.md) and invite your partner to your new 'week-04-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
 * Accept your partner's invitation to collaborate on their repository and [open their 'week-03-mcluhan.md' file](https://guides.github.com/activities/hello-world/#commit) in their 'week-03-feedback' repository and add a short reaction (around a paragraph) asking any new questions their response sparked for you
 * Write a short, genuine, reaction and ask a few questions to your partner about their response. Save the file and [commit the changes](https://guides.github.com/activities/hello-world/#commit)
 * Open a [pull request](https://guides.github.com/activities/hello-world/#pr) for your committed changes and write a short description explaining what changes you made to the document
