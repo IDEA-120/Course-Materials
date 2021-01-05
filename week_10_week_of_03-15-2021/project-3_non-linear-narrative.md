@@ -1,5 +1,7 @@
 # Project 3: Non-linear Narrative
+## Project Description and Criteria
 
+**Due Thursday, April 15 (week 14)**
 
 
 Why might we tell a story out of order, or eschew the idea that a story could have an "order" in the first place? Often, new or strange concepts we encounter can be best understood if we look at them in a variety of ways, each with their own unique interpretations. It's often the case that no two people come to the same place of understanding in exactly the same way. A non-linear narrative leans on this idea as a feature, creating a rich world for players to explore on their way to a "destination", *or not*.

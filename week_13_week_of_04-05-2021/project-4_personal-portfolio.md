@@ -1,4 +1,6 @@
 # Project 4: Personal Portfolio
+## Project Description and Criteria
+
 **Due Thursday, April 29, 2021**
 
 >#### portfolio (noun)
