@@ -7,7 +7,7 @@ What is a green screen? We often see a green screen in a 'behind the scenes' or 
 
 Green screens allow film productions to visually place actors anywhere in our imaginable universe, which in turn allows our society to expand the limits of the stories we're able to tell through film. An audience of a film often only sees the result of the use of the green screen and not the 'behind the scenes' and has a different [phenomenological experience](https://en.wikipedia.org/wiki/Phenomenology_(psychology) of the space being created than the actor being filmed.
 
-Zoom, the video conference tool we use for class, has a built in [virtual background](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) feature which is able to place us anywhere we'd like during a meeting.
+Zoom, the video conference tool we currently use for most classes, has a built in [virtual background](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) feature which is able to place us anywhere we'd like during a meeting.
 
 [![A Zoom Meeting without a background](./zoom-children-bbc.png)](https://www.youtube.com/watch?v=Mh4f9AYRCZY&ab_channel=BBCNews)
 *[On-air BBC Broadcast with No Zoom Background](https://www.youtube.com/watch?v=Mh4f9AYRCZY&ab_channel=BBCNews)*

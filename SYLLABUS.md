@@ -56,7 +56,7 @@ Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed
 
 * Our course explores digital media as an art form, bringing it together with design, cultural and technology studies, and into an interactive, collaborative class.
 * Our course is oriented toward making, writing, building and identifying relevant skills for a digital media toolkit and historical and theoretical introductions to practices that will be useful for creative and critical thinkers working across disciplines.
-* This course is required for BA in IDEAS, BA in Theatre and Performance, and BA in Theatre Design, Production and Technology. Extensive computer use (and internet access) required.
+* This course is required for BA in IDEAS. Extensive computer use (and internet access) required.
 
 ***
 
@@ -81,7 +81,7 @@ Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed
 
 ### Course Content and Materials
 
-Pre-recorded lectures, texts, articles, videos, audio clips, as well as additional resources like example files and tutorials, can be accessed on the course GitHub repository under the folder for the current week. You will be responsible for watching, reading, and listening to each week's materials, as their content will be explored further in class discussion and your weekly assignments.
+Pre-recorded lectures, texts, articles, videos, audio clips, as well as additional resources like example files and tutorials, can be accessed on the course GitHub repository under the folder for the current week. You will be responsible for watching, reading, and listening to each week's materials, as their content will be explored further in your weekly assignments and projects.
 
 ***
 
