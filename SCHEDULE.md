@@ -42,6 +42,7 @@ This first week you should review the [course syllabus](SYLLABUS.md) and access 
 
 DUE **Thursday, January 14**:
 * Review [course syllabus](SYLLABUS.md)
+* DOWNLOAD and review [Week 1 guide](/week_01_week_of_01-11-2021/wk01_introduction.pdf)
 * Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_01-11-2021/readings/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 
 ***
@@ -65,6 +66,7 @@ DUE **Thursday, January 21**:
 #### Week of January 25, 2021: A Brief History of (Digital, and other) Media in Art
 
 DUE **Thursday, January 28**:
+* DOWNLOAD and review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digitalhistory.pdf)
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
 * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
@@ -81,6 +83,7 @@ DUE **Thursday, January 28**:
 #### Week of February 1, 2021: Media Theory, Part 1
 
 DUE **Thursday, February 4**:
+* DOWNLOAD and review [Week 4 guide](/week_04_week_of_02-01-2021/wk04_mediatheory1.pdf)
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_02-01-2021/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
@@ -89,22 +92,13 @@ DUE **Thursday, February 4**:
 * Save the file and ['stage all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
 * Read W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
 
-DUE **Monday, February 8, 2021**:
-
-Collaborating with 'Pull Requests' Classmate Feedback:
-* On the GitHub website create [a new branch](https://guides.github.com/activities/hello-world/#branch) in your 'idea-120-responses' repository and name it 'week-04-feedback-YOUR_GITHUB_USERNAME'
-* [See who your partner is at this doc](/week_04_week_of_02-01-2021/pull-request-partners.md) and invite your partner to your new 'week-04-feedback' repository as a collaborator [using these instructions](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
-* Accept your partner's invitation to collaborate on their repository and [open their 'week-03-response.md' file](https://guides.github.com/activities/hello-world/#commit) in their 'week-04-feedback' repository and add a short reaction (around a paragraph) asking any new questions their response sparked for you
-* Write a short, genuine, reaction and ask a few questions to your partner about their response. Save the file and [commit the changes](https://guides.github.com/activities/hello-world/#commit)
-* Open a [pull request](https://guides.github.com/activities/hello-world/#pr) for your committed changes and write a short description explaining what changes you made to the document
-* Now go to your own 'week-04-feedback' repository and [merge the pull request your partner created when they edited your document](https://guides.github.com/activities/hello-world/#pr). This will merge your partners edits with the original 'week-04-response.md' file in your master 'idea-120-responses' repository.
-
 ***
 
 ### Week 5
 #### Week of February 8, 2021: Media Theory, Part 2
 
 DUE **Thursday, February 11**:
+* DOWNLOAD and review [Week 5 guide](/week_05_week_of_02-08-2021/wk05_mediatheory2.pdf)
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_02-08-2021/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
