@@ -42,7 +42,7 @@ This first week you should review the [course syllabus](SYLLABUS.md) and access 
 
 DUE **Thursday, January 14**:
 * Review [course syllabus](SYLLABUS.md)
-* DOWNLOAD and review [Week 1 guide](/week_01_week_of_01-11-2021/wk01_introduction.pdf)
+* DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_01-11-2021/readings/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 
 ***
