@@ -51,7 +51,7 @@ DUE **Thursday, January 14**:
 #### Week of January 18, 2021: Computing in Design and Arts Practices
 
 DUE **Thursday, January 21**:
-* DOWNLOAD and review [Week 2 guide](/week_02_week_of_01-25-2021/wk03_digitalhistory.pdf)
+* DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
 * [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_01-18-2021/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
