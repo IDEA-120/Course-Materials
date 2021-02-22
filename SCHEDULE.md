@@ -148,7 +148,7 @@ DUE **Thursday, February 25**
 * **Optional** *Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)*
 * Complete [Tutorial: Setting up the virtual lab](/week_06_week_of_09-28-2020/readings/virtual_computer_lab_setup.pdf)
 * Read W3C's [CSS Tutorial from 'CSS Overflow' to 'CSS Specificity'](https://www.w3schools.com/css/default.asp)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-06-response.md' and discuss in about 2 paragraphs if you agree with the problems and solutions laid out by Bridle. Bridle has a specific vision for what the internet 'should be'. Do you agree with this vision?
+* Create a new markdown document in your 'idea-120-responses' folder called 'week-07-response.md' and discuss in about 2 paragraphs if you agree with the problems and solutions laid out by Bridle. Bridle has a specific vision for what the internet 'should be'. Do you agree with this vision?
 * Push the file to your repository
 
 Optional In-Class Lab **Thursday, February 25, 9:30-11:00AM**
