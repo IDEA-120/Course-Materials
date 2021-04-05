@@ -237,9 +237,6 @@ DUE **Thursday, April 8**:
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
 * Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
 * Push your proposal to your repository
-* Accept my invitation to collaborate on the 'Project 4 Workshops' repository ([as was done in week 3](#week-03)) and open the 'workshop-requests.md' file. Add workshop or tutorial videos you'd like to see in Weeks 13 and 14 to this document, then commit the changes.
-* Open a pull request for these committed changes and write a short description.
-* I will merge the changes to the main document as people add them.
 
 DUE **Thursday, April 8**
 * Schedule a [one-on-one meeting with me for next week (04/12, 04/14, or 04/15) on Calendly](https://calendly.com/tfunk4/office-hours-meeting)
@@ -252,7 +249,6 @@ DUE **Thursday, April 8**
 One-on-one meetings this week before Non-linear Narrative DUE
 
 DUE **Thursday, April 15**:
-* Watch your requested workshop(s) and continue working on your Non-linear Narrative Project
 * Non-linear Narrative Project DUE
 
 ***
