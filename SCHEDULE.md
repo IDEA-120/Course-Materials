@@ -29,7 +29,7 @@
 
 This document is the current course schedule broken down by week.
 
-In this document, under each week there are a list of assigned videos, texts, and exercises to complete for that Thursday (by midnight), along with how and where to submit assignments. The contents of this document will be updated throughout the semester.
+In this document, under each week there are a list of assigned videos, texts, and exercises to complete for our Thursday discussions (by midnight on the Wednesday before), along with how and where to submit assignments. The contents of this document will be updated throughout the semester.
 
 ***
 
@@ -38,7 +38,7 @@ In this document, under each week there are a list of assigned videos, texts, an
 ### Week 1
 #### Week of January 10, 2022: Course Introduction
 
-This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 14, via Zoom. Zoom invite details are on Blackboard.
+This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture, reading, and assignments. We'll have our first discussion on the reading below on Thursday. Zoom invite details are on Blackboard.
 
 DUE **Thursday, January 13**:
 * Review [course syllabus](SYLLABUS.md)
