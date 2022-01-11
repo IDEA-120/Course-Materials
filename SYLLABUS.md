@@ -32,7 +32,7 @@ This document is the current syllabus with the course description, expectations,
 
 ### Course Format, Zoom Meeting Details
 
-IDEA 120 is an [asynchronous class](https://en.wikipedia.org/wiki/Asynchronous_learning) with once weekly open office hours. One-on-one meetings can be scheduled through Calendly (see info below).
+IDEA 120 is a [semi-synchronous class](https://en.wikipedia.org/wiki/Asynchronous_learning) with required discussions on Thursdays and open office hours on Tuesdays. One-on-one meetings can be scheduled through Calendly (see info below). Depending on the progress and general mood of the class, attendance may sometimes be required on Tuesdays, but at least one week's notice.
 
 Extensive computer and internet use is required. If you do not have access to a laptop, [you may request to borrow one from the university](https://it.uic.edu/services-support/student-resources/online-learning/).
 
@@ -40,7 +40,7 @@ Extensive computer and internet use is required. If you do not have access to a 
 
 ### Instructor
 
-Jared Christopher Kelley / (New) Media Artist, Prof. in ART and IDEAS  / [jkelle28@uic.edu](mailto:jkelle28@uic.edu) / [jaredckelley.com](http://jaredckelley.com)
+Jared Christopher Kelley / (New) Media Artist, Prof/Instructor in ART and IDEAS  / [jkelle28@uic.edu](mailto:jkelle28@uic.edu) / [jaredckelley.com](http://jaredckelley.com)
 
 ***
 
