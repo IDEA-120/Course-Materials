@@ -51,7 +51,7 @@ DUE **Thursday, January 13**:
 #### Week of January 17, 2022: Computing in Design and Arts Practices
 
 DUE **Thursday, January 20**:
-* DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
+* DOWNLOAD and review [Week 2 guide]()
 * [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_01-18-2021/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
@@ -67,7 +67,7 @@ DUE **Thursday, January 20**:
 #### Week of January 24, 2022: A Brief History of (Digital, and other) Media in Art
 
 DUE **Thursday, January 27**:
-* DOWNLOAD and review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digitalhistory.pdf)
+* DOWNLOAD and review [Week 3 guide]()
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
 * Review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digital_history.pdf)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
@@ -84,7 +84,7 @@ DUE **Thursday, January 27**:
 #### Week of January 31, 2022: Media Theory, Part 1
 
 DUE **Thursday, February 3**:
-* DOWNLOAD and review [Week 4 guide](/week_04_week_of_01-31-2022/wk04_mediatheory1.pdf)
+* DOWNLOAD and review [Week 4 guide]()
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_01-31-2022/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_01-31-2022/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
@@ -100,7 +100,7 @@ DUE **Thursday, February 3**:
 #### Week of February 7, 2022: Media Theory, Part 2
 
 DUE **Thursday, February 10**:
-* DOWNLOAD and review [Week 5 guide](/week_05_week_of_02-07-2022/wk05_mediatheory2.pdf)
+* DOWNLOAD and review [Week 5 guide]()
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_02-07-2022/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
 * Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-07-2022/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
@@ -122,7 +122,7 @@ DUE **Monday, February 14**:
 One-on-one meetings this week before midterm grades are submitted
 
 DUE **Thursday, February 17**:
-* DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1HCValVmwd-A-Os9qooaZWzw6UR-sHtBnj5UlPVY42z8/edit?usp=sharing)
+* DOWNLOAD and review [Week 6 guide]()
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_02-14-2022/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
 * Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube', ](https://www.w3schools.com/html/default.asp)
 * Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
