@@ -1,5 +1,5 @@
 # IDEA 120: Digital Practices in Art and Design
-### Syllabus for Spring 2021
+### Syllabus for Spring 2022
 
 ![Alison Knowles, House of Dust](knowles_house_of_dust.png)
 <sup>*Excerpt from [Alison Knowles 'House of Dust'](https://www.damnmagazine.net/2016/09/07/the-house-of-dust-by-alison-knowles/)*</sup>
@@ -34,19 +34,19 @@ This document is the current syllabus with the course description, expectations,
 
 IDEA 120 is an [asynchronous class](https://en.wikipedia.org/wiki/Asynchronous_learning) with once weekly open office hours. One-on-one meetings can be scheduled through Calendly (see info below).
 
-Extensive computer and internet use is required. If you do not have access to a laptop, [you may request to borrow one from the university](https://accc.uic.edu/online-learning/online-learning-students/basic-requirements-students/technology-tools-students/).
+Extensive computer and internet use is required. If you do not have access to a laptop, [you may request to borrow one from the university](https://it.uic.edu/services-support/student-resources/online-learning/).
 
 ***
 
 ### Instructor
 
-Dr. Tiffany Funk / Visiting Assistant Professor of IDEAS (Interdisciplinary Education in the Arts) / [tfunk4@uic.edu](mailto:tfunk4@uic.edu) / [tiffanyfunk.com](http://tiffanyfunk.com)
+Jared Christopher Kelley / (New) Media Artist, Prof. in ART and IDEAS  / [jkelle28@uic.edu](mailto:jkelle28@uic.edu) / [jaredckelley.com](http://jaredckelley.com)
 
 ***
 
 ### Office Hours, One on One Meetings
 
-[Schedule a one on one appointment with me using Calendly](http://calendly.com/tfunk4/office-hours-meeting)
+[Schedule a one on one appointment with me using Calendly](https://calendly.com/jaredchrstphrkelley/15min1on1)
 
 ***
 
@@ -91,7 +91,7 @@ We will make extensive use of Git and GitHub to post writing responses, project 
 
 [Git](https://en.wikipedia.org/wiki/Git) is a file management system primarily used by programmers in software development (and also used by artists, writers, designers, scientists, among many others) that allows them to manage their projects as "repositories" or all-inclusive packages that can be managed and new versions updated ("pushed" to a server) easily. [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a web service that hosts these repositories. GitHub uses Git, but Git does not necessarily use GitHub.
 
-A free GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me at tfunk4@uic.edu](mailto:tfunk4@uic.edu) with your GitHub username.
+A free GitHub account is required for this class. [Create an account here](https://github.com/join) and [email me at jkelle28@uic.edu](mailto:jkelle28@uic.edu) with your GitHub username.
 
 ***
 
