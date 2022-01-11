@@ -43,7 +43,7 @@ This first week you should review the [course syllabus](SYLLABUS.md) and access 
 DUE **Thursday, January 13**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1GQUxbi2lTC9_rsxHgzlFDtm8EZ9FPHkpacnxN7IZaB8/edit?usp=sharing)
-* Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_01-10-2022/readings/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
+* Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_01-11-2021/readings/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 
 ***
 
@@ -53,10 +53,10 @@ DUE **Thursday, January 13**:
 DUE **Thursday, January 20**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
 * [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
-* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_01-17-2022/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
+* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_01-18-2021/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
 * Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 * Create [a new GitHub Account](https://github.com/join)
-* Email your GitHub username to: [tfunk4@uic.edu](mailto:tfunk4@uic.edu)
+* Email your GitHub username to: [jkelle28@uic.edu](mailto:jkelle28@uic.edu)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
 * Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images
 * 'Commit' the new file to your repository with a description
@@ -67,16 +67,16 @@ DUE **Thursday, January 20**:
 #### Week of January 24, 2022: A Brief History of (Digital, and other) Media in Art
 
 DUE **Thursday, January 27**:
-* DOWNLOAD and review [Week 3 guide](/week_03_week_of_01-24-2022/wk03_digitalhistory.pdf)
+* DOWNLOAD and review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digitalhistory.pdf)
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
-* Review [Week 3 guide](/week_03_week_of_01-24-2022/wk03_digital_history.pdf)
+* Review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digital_history.pdf)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
-* Read [Chris Salter, Entangled](/week_03_week_of_01-24-2022/readings/Chris-Salter-Entangled-WEEK-03.pdf)
+* Read [Chris Salter, Entangled](/week_03_week_of_01-25-2021/readings/Chris-Salter-Entangled-WEEK-03.pdf)
 * Respond to the reading by creating a new markdown file named 'week-03-salter.md' in your 'idea-120-responses' repository and write 2-3 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that could be considered a *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
  * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
 * Download and install [the Atom text editor](https://atom.io/)
 * [Watch Tutorial: Installing Atom and adding a GitHub Repository](https://vimeo.com/454929880/e8fca32290) and complete the steps yourself with your 'idea-120-responses' repository
-* Read the description for [Project 1: GitHub Poetry (due week 5)](/week_03_week_of_01-24-2022/project-1-github-poetry.md) and follow the instructions there to create a GitHub pages site
+* Read the description for [Project 1: GitHub Poetry (due week 5)](/week_03_week_of_01-25-2021/project-1-github-poetry.md) and follow the instructions there to create a GitHub pages site
 
 ***
 
