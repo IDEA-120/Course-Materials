@@ -69,7 +69,6 @@ DUE **Thursday, January 20**:
 DUE **Thursday, January 27**:
 * DOWNLOAD and review [Week 3 guide](https://github.com/IDEA-120/Course-Materials/blob/Spring2022/week_03_week_of_01-25-2021/wk03_digitalhistory.pdf)
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
-* Review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digital_history.pdf)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
 * Read [Chris Salter, Entangled](/week_03_week_of_01-25-2021/readings/Chris-Salter-Entangled-WEEK-03.pdf)
 * Respond to the reading by creating a new markdown file named 'week-03-salter.md' in your 'idea-120-responses' repository and write 2-3 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that could be considered a *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
