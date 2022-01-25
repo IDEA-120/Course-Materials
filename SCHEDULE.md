@@ -67,7 +67,7 @@ DUE **Thursday, January 20**:
 #### Week of January 24, 2022: A Brief History of (Digital, and other) Media in Art
 
 DUE **Thursday, January 27**:
-* DOWNLOAD and review [Week 3 guide]()
+* DOWNLOAD and review [Week 3 guide](https://github.com/IDEA-120/Course-Materials/blob/Spring2022/week_03_week_of_01-25-2021/wk03_digitalhistory.pdf)
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
 * Review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digital_history.pdf)
 * Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
