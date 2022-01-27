@@ -1,7 +1,7 @@
 # Project 1: GitHub Poetry
 
 ## Project Description and Criteria
-**Due Thursday, February 11, 2021 (week 5)**
+**Due Monday, February 14, 2021**
 
 Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](/week_05_week_of_02-08-2021/readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
 
