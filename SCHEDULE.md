@@ -45,6 +45,12 @@ DUE **Thursday, January 14**:
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](/week_01_week_of_01-11-2021/readings/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
 
+Tuesday Recording:
+https://uic.zoom.us/rec/share/T9IhmfjwtPb0DfdZqBCDZx4axUfIebDDmXwIO9PW8ltW-tReCYaiiE5iBuBYQjF_.owTlsrmhGxeixSbr
+
+Thursday Recording:
+https://uic.zoom.us/rec/share/43HqqCj9VBPQ_jzAcv0dSs3FAf83PcvNmLgttacm2-oIXgYQgFs6RWK5oNzsG44a.I8RVkUr7PtW0cYgD
+
 ***
 
 ### Week 2
@@ -60,6 +66,12 @@ DUE **Thursday, January 21**:
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
 * Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images
 * 'Commit' the new file to your repository with a description
+
+Tuesday Recording:
+https://uic.zoom.us/rec/share/iREObjzaRJPieW6boJ044DokUVTe4i6jlg9de7lti8XmFl5pWgOhTKK0MaUJDT9t.O20bLNYvHidNz75o
+
+Thursday Recording:
+https://uic.zoom.us/rec/share/H9RcS82JN28Pr0O1zjBJBaComG5eRgKfNRA1thtm5orT8CHWOYW34JKlNtxyiuqT.d_X0kEwvO7KVQ3l1
 
 ***
 
@@ -78,6 +90,12 @@ DUE **Thursday, January 28**:
 * [Watch Tutorial: Installing Atom and adding a GitHub Repository](https://vimeo.com/454929880/e8fca32290) and complete the steps yourself with your 'idea-120-responses' repository
 * Read the description for [Project 1: GitHub Poetry (due week 5)](/week_03_week_of_01-25-2021/project-1-github-poetry.md) and follow the instructions there to create a GitHub pages site
 
+Tuesday Recording:
+https://uic.zoom.us/rec/share/XRm0-eePJipLaGMQTnpppfs6io9R3V96Ir6oeeI-objPbU3Vq2hCayM57LBbRkTH.Ogh972ZyR7RUiN8z
+
+Thursday Recording:
+https://uic.zoom.us/rec/share/LPKflAFsg2lEIMh5v13hcO-xF0DPYBERBvz9ux5APdHeYvosN79x3ocj9sSgDRhy.ahLcILMoBWdFGtU2
+
 ***
 
 ### Week 4
@@ -93,6 +111,12 @@ DUE **Thursday, February 3**:
 * Save the file and ['stage all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
 * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
 * Read W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
+
+Tuesday Recording:
+https://uic.zoom.us/rec/share/daY7zeS1m0X7CDQJKJEiHoeOVvHVgst7KQkW0ZShVdmMTYpRO89FiIGh5_5SWezq.ETX8NluCnV4atlSG
+
+Thursday Recording:
+https://uic.zoom.us/rec/share/-ggULwkG7R8QS_a0G77oI8KTACBM2BvG-NZO7CF5d4OF7MpVQpmVBONBahYTQdWZ.oBZ6430Cmktd1sSZ
 
 ***
 
