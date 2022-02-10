@@ -139,6 +139,9 @@ DUE **Monday, February 14**:
 Tuesday Recording:
 https://uic.zoom.us/rec/share/-eieDzKuAC2c97MhhFeWeu8YFQo-QSXrc87PfPKBU-X2cVjS734o9p2G3tot_Oyu.Mwk4hAEkkS8JriGu
 
+Thursday Recording:
+https://uic.zoom.us/rec/share/iCwbO273-ZEKPJwqzDsXFALPVvouGHHaBxvXGuBIy8R8neXzysTy4tfyjAz32sch.k54_LtYTDHy41n09
+
 ***
 
 ## Unit 2: Digital Literacy and Online Content Creation
