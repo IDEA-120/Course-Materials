@@ -134,7 +134,6 @@ DUE **Thursday, February 10**:
 
 DUE **Monday, February 14**:
 * Final GitHub Poetry Project DUE
-* Schedule a [one-on-one meeting with me for next week (02/15, 02/17, 02/18, or 02/19) on Calendly](https://calendly.com/tfunk4/office-hours-meeting)
 
 Tuesday Recording:
 https://uic.zoom.us/rec/share/-eieDzKuAC2c97MhhFeWeu8YFQo-QSXrc87PfPKBU-X2cVjS734o9p2G3tot_Oyu.Mwk4hAEkkS8JriGu
