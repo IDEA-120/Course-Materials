@@ -159,10 +159,8 @@ DUE **Thursday, February 17**:
 * Push this file to your repository
 
 Optional In-Class Lab **Tuesday, February 15, 9:30-10:45AM**
-* Zoom link details in blackboard
-* Creating a website in Atom (HTML and CSS fundamentals)
-* Setting up a website in GitHub Pages
-* Tutorial will be recorded and shared with the class
+* Accessing the virtual computer lab
+* Recording will be posted afterward
 
 ***
 
