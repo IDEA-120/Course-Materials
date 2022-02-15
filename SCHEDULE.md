@@ -160,6 +160,7 @@ DUE **Thursday, February 17**:
 
 Optional In-Class Lab **Tuesday, February 15, 9:30-10:45AM**
 * Accessing the virtual computer lab
+** [Instructions can be found on this PDF](week_06_week_of_02-15-2021/windows-virtual-desktop-access.pdf)
 * Recording will be posted afterward
 
 ***
