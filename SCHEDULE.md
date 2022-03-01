@@ -200,8 +200,7 @@ DUE **Thursday, March 3**:
 
 Optional In-Class Lab **Tuesday, March 1, 9:30-10:45AM**
 * Zoom link details in blackboard
-* Adobe Photoshop and Illustrator Fundamentals
-* Tutorial will be recorded and shared with the class via Github
+* DaVinci Resolve and OBS Basics
 
 ***
 
