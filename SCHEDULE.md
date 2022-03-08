@@ -179,10 +179,8 @@ DUE **Thursday, February 24**
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-07-response.md' and discuss in about 2 paragraphs if you agree with the problems and solutions laid out by Bridle. Bridle has a specific vision for what the internet 'should be'. Do you agree with this vision?
 * Push the file to your repository
 
-Optional In-Class Lab **Tuesday, February 22, 9:30-10:45AM**
-* Zoom link details in blackboard
-* Adobe Premiere Fundamentals
-* Tutorial will be recorded and shared with the class via Github
+OBS Workshop Recording:
+https://uic.zoom.us/rec/share/PrCQcnoECBIZShhgJ9opFm7Cq3cb9JIa_ExswVHBkW2CLLCPmGdumEG_raoQHLWh.h5sSpUDMTVU1o1Sr?startTime=1646147751000
 
 DUE **Monday, February 28**:
 * Submit improved GitHub Poetry Project by emailing me a link to your GitHub pages web address
