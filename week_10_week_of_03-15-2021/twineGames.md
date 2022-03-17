@@ -12,9 +12,9 @@ Play a few of the text adventure games from the list provided below. Think about
 * Tiffany Funk, Teeth Monster: https://tiffanyfunk.com/teethmonster/
 * Andrew Plotkin, Bigger Than You Think, https://eblong.com/zarf/zweb/btyt/
 * Elizabeth Smyth, Bogeyman: http://ifarchive.org/if-archive/games/competition2018/Bogeyman/bogeyman.html
-* Porpentine, With Those We Love Alive: http://aliendovecote.com/uploads/twine/empress/empress.html
+* Porpentine, With Those We Love Alive: https://slimedaughter.com/games/twine/wtwla/
 * neongray, Cat Petting Simulator: https://neongrey.itch.io/pet-that-cat
-* Anna Anthropy, Queers in Love at the End of the World: http://auntiepixelante.com/endoftheworld/
+* Anna Anthropy, Queers in Love at the End of the World: https://w.itch.io/end-of-the-world
 * Zoe Quinn, Depression Quest: http://www.depressionquest.com/dqfinal.html
 * Kitty Horrorshow, daymare #1: "ritual": http://philome.la/kittyhorrorshow/daymare-1-ritual/play
 * A Dark Room: http://adarkroom.doublespeakgames.com/
