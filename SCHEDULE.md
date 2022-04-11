@@ -263,15 +263,18 @@ DUE **Thursday, April 7**:
 * Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
 * Push your proposal to your repository
 
-DUE **Thursday, April 7**
-* Schedule a [one-on-one meeting with me for next week (04/12, 04/14, or 04/15) on Calendly](https://calendly.com/tfunk4/office-hours-meeting)
+Twine Tutorial 1 Recording:
+https://uic.zoom.us/rec/share/tuY9gk9WzT5Czn2TZZTM-stO-cJ7B8UlLJ64JL_v7JQmgMwakHP3kUzZmzYffUU3.As_AN9VAKRpMqrRY?startTime=1647353795000 
+
+Twine Tutorial 2 Recording:
+https://uic.zoom.us/rec/share/oQH_ypu3YxS5OA5cqGZGJiInhh5I4DhsHPB7bgurKFnsD2KHK7WNAagdACln1NlT.0KLHikohC7hEBs9Z?startTime=1649168217000
 
 ***
 
 ### Week 14
 #### Week of April 11, 2021
 
-One-on-one meetings this week before Non-linear Narrative DUE
+
 
 DUE **Thursday, April 14**:
 * Non-linear Narrative Project DUE
