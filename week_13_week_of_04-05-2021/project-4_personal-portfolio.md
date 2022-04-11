@@ -32,12 +32,7 @@ Portfolios, depending on how they are organized, what work is included (and what
 - Stefan Sagmeister: [https://sagmeister.com](https://sagmeister.com)
 - Anna Anthropy: [https://w.itch.io](https://w.itch.io)
 - Golan Levin: [http://www.flong.com](http://www.flong.com)
-- Jared Kelley
- - [From 2011](http://web.archive.org/web/20110202204317/http://jaredckelley.com/)
- - [From 2013](http://web.archive.org/web/20140105201045/http://jaredckelley.com/f12/)
- - [From 2015](http://web.archive.org/web/20151120014134/http://jaredckelley.com/)
- - [From 2020](http://jaredckelley.com)
-   - Project page: [Between-2-Points](http://jaredckelley.com/between-2-points)
+- Jared Kelley - [http://jaredckelley.com](http://jaredckelley.com)
 
 ### Goals
 
@@ -66,4 +61,4 @@ Using your Github Pages repository created originally in Project 1:
 
 - Must include documentation of Projects 1, 2, and 3
 - Must use HTML/CSS to create the web pages for each project
-- Must be posted on Github Pages no later Thursday, April 29th
+- Must be posted on Github Pages no later Thursday, April 28th
