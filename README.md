@@ -7,4 +7,4 @@ Welcome to IDEA 120 for Spring 2022. This GitHub repository is the central locat
 
 The course [syllabus](/SYLLABUS.md) and [schedule](/SCHEDULE.md) will be updated regularly as the semester progresses.
 
-Email me (Jared) at [jkelle28@uic.edu](mailto:tfunk4@uic.edu) if you have questions.
+Email me (Tim) at [tkwasny@uic.edu](mailto:tkwasny@uic.edu) if you have questions.
