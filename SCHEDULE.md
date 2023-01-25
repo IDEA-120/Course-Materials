@@ -6,22 +6,22 @@
 
 #### Contents
 * [Introduction and About the Schedule](#introduction-and-about-the-schedule)
-* Week 1: [Week of January 10, 2022](#week-1)
-* Week 2: [Week of January 17, 2022](#week-2)
-* Week 3: [Week of January 24, 2022](#week-3)
-* Week 4: [Week of January 31, 2022](#week-4)
-* Week 5: [Week of February 7, 2022](#week-5)
-* Week 6: [Week of February 14, 2022](#week-6)
-* Week 7: [Week of February 21, 2022](#week-7)
-* Week 8: [Week of February 28, 2022](#week-8)
-* Week 9: [Week of March 7, 2022](#week-9)
-* Week 10: [Week of March 14, 2022](#week-10)
+* Week 1: [Week of January 9, 2022](#week-1)
+* Week 2: [Week of January 16, 2022](#week-2)
+* Week 3: [Week of January 23, 2022](#week-3)
+* Week 4: [Week of January 30, 2022](#week-4)
+* Week 5: [Week of February 6, 2022](#week-5)
+* Week 6: [Week of February 13, 2022](#week-6)
+* Week 7: [Week of February 20, 2022](#week-7)
+* Week 8: [Week of February 27, 2022](#week-8)
+* Week 9: [Week of March 6, 2022](#week-9)
+* Week 10: [Week of March 13, 2022](#week-10)
 * Week 11: [SPRING BREAK - no class](#week-11)
-* Week 12: [Week of March 28, 2022](#week-12)
-* Week 13: [Week of April 4, 2022](#week-13)
-* Week 14: [Week of April 11, 2022](#week-14)
-* Week 15: [Week of April 18, 2022](#week-15)
-* Week 16: [Week of April 25, 2022](#week-16)
+* Week 12: [Week of March 27, 2022](#week-12)
+* Week 13: [Week of April 3, 2022](#week-13)
+* Week 14: [Week of April 10, 2022](#week-14)
+* Week 15: [Week of April 17, 2022](#week-15)
+* Week 16: [Week of April 24, 2022](#week-16)
 
 ***
 
@@ -54,9 +54,9 @@ https://uic.zoom.us/rec/share/43HqqCj9VBPQ_jzAcv0dSs3FAf83PcvNmLgttacm2-oIXgYQgF
 ***
 
 ### Week 2
-#### Week of January 18, 2022: Computing in Design and Arts Practices
+#### Week of January 16, 2022: Computing in Design and Arts Practices
 
-DUE **Thursday, January 21**:
+DUE **Thursday, January 19**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
 * [Watch Lecture: Early Computing and the Arts](https://vimeo.com/452741250/0b4773d055)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](/week_02_week_of_01-18-2021/readings/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
@@ -76,9 +76,9 @@ https://uic.zoom.us/rec/share/H9RcS82JN28Pr0O1zjBJBaComG5eRgKfNRA1thtm5orT8CHWOY
 ***
 
 ### Week 3
-#### Week of January 25, 2022: A Brief History of (Digital, and other) Media in Art
+#### Week of January 23, 2022: A Brief History of (Digital, and other) Media in Art
 
-DUE **Thursday, January 28**:
+DUE **Thursday, January 26**:
 * DOWNLOAD and review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digitalhistory.pdf)
 * [Watch Lecture: A Brief History of the Internet](https://vimeo.com/453838373/165226d296)
 * Review [Week 3 guide](/week_03_week_of_01-25-2021/wk03_digital_history.pdf)
@@ -99,9 +99,9 @@ https://uic.zoom.us/rec/share/LPKflAFsg2lEIMh5v13hcO-xF0DPYBERBvz9ux5APdHeYvosN7
 ***
 
 ### Week 4
-#### Week of January 31, 2022: Media Theory, Part 1
+#### Week of January 30, 2022: Media Theory, Part 1
 
-DUE **Thursday, February 3**:
+DUE **Thursday, February 2**:
 * DOWNLOAD and review [Week 4 guide](/week_04_week_of_02-01-2021/wk04_mediatheory1.pdf)
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
@@ -121,9 +121,9 @@ https://uic.zoom.us/rec/share/-ggULwkG7R8QS_a0G77oI8KTACBM2BvG-NZO7CF5d4OF7MpVQp
 ***
 
 ### Week 5
-#### Week of February 7, 2022: Media Theory, Part 2
+#### Week of February 6, 2022: Media Theory, Part 2
 
-DUE **Thursday, February 10**:
+DUE **Thursday, February 9**:
 * DOWNLOAD and review [Week 5 guide](/week_05_week_of_02-08-2021/wk05_mediatheory2.pdf)
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Cathy O'Neil, Weapons of Math Destruction: 'Introduction', 'Chapter 1', 'Chapter 3', and 'Chapter 5'](/week_05_week_of_02-08-2021/readings/Cathy-O-Neil-Weapons-of-Math-Destruction-Intro-Ch-1-3-5-WEEK-05.pdf)
@@ -132,7 +132,7 @@ DUE **Thursday, February 10**:
 * In Atom, create a new markdown file named 'week-05-o-neil.md' and save it in your 'idea-120-responses' repository project folder. In this file give an example in about 3 paragraphs of a 'WMD' as O'Neil describes it.
 * Push this file to your repository
 
-DUE **Monday, February 14**:
+DUE **Thursday, February 16**:
 * Final GitHub Poetry Project DUE
 
 Tuesday Recording:
@@ -146,11 +146,11 @@ https://uic.zoom.us/rec/share/iCwbO273-ZEKPJwqzDsXFALPVvouGHHaBxvXGuBIy8R8neXzys
 ## Unit 2: Digital Literacy and Online Content Creation
 
 ### Week 6
-#### Week of February 14, 2022: Digital Un-realities
+#### Week of February 13, 2022: Digital Un-realities
 
 One-on-one meetings this week before midterm grades are submitted
 
-DUE **Thursday, February 17**:
+DUE **Thursday, February 16**:
 * DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1HCValVmwd-A-Os9qooaZWzw6UR-sHtBnj5UlPVY42z8/edit?usp=sharing)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_02-15-2021/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
 * Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube', ](https://www.w3schools.com/html/default.asp)
@@ -158,7 +158,7 @@ DUE **Thursday, February 17**:
 * In Atom, create a new markdown file named 'week-06-murray.md' and save it in your 'idea-120-responses' repository project folder. In this file discuss if you believe Murray's predictions about internet television and inhabiting virtual environments were successful. How does Murray's prediction compare to the hyper-realistic virtual environments the actors of 'The Mandalorian' inhabit while acting? Name and discuss the different layers of 'reality' both the actors and the viewers experience in the production.
 * Push this file to your repository
 
-Optional In-Class Lab **Tuesday, February 15, 9:30-10:45AM**
+Optional In-Class Lab **Tuesday, February 14, 9:30-10:45AM**
 * Accessing the virtual computer lab
 ** [Instructions can be found on this PDF](week_06_week_of_02-15-2021/windows-virtual-desktop-access.pdf)
 * Recording will be posted afterward
@@ -166,9 +166,9 @@ Optional In-Class Lab **Tuesday, February 15, 9:30-10:45AM**
 ***
 
 ### Week 7
-#### Week of February 21, 2022: A Series of Tubes: What's wrong with the internet?
+#### Week of February 20, 2022: A Series of Tubes: What's wrong with the internet?
 
-DUE **Thursday, February 24**
+DUE **Thursday, February 23**
 * Review [Project 2: Green Screen](/week_07_week_of_02-22-2021/project-2_green-screen.md) expectations.
 * Create a new markdown file in your repository called 'project-02-proposal.md'. Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_07_week_of_02-22-2021/project-2_green-screen.md) and push it to your repository
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
@@ -182,21 +182,21 @@ DUE **Thursday, February 24**
 OBS Workshop Recording:
 https://uic.zoom.us/rec/share/PrCQcnoECBIZShhgJ9opFm7Cq3cb9JIa_ExswVHBkW2CLLCPmGdumEG_raoQHLWh.h5sSpUDMTVU1o1Sr?startTime=1646147751000
 
-DUE **Monday, February 28**:
+DUE **Thursday, February 23**:
 * Submit improved GitHub Poetry Project by emailing me a link to your GitHub pages web address
 
 ***
 
 ### Week 8
-#### Week of February 28, 2022: What is a model? Design and Algorithms
+#### Week of February 27, 2022: What is a model? Design and Algorithms
 
-DUE **Thursday, March 3**:
+DUE **Thursday, March 2**:
 * Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
 * Read [Cathy O'Neil, Weapons of Math Destruction: Chapter 4](/week_08_week_of_03-01-2021/readings/Cathy-O-Neil-Weapons-Of-Math-Destruction-Chapter-4-WEEK-08.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-08-response.md' and discuss in about 2 paragraphs what methods outlined by O'Neil and Chalabi you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
 * Push the file to your repository
 
-Optional In-Class Lab **Tuesday, March 1, 9:30-10:45AM**
+Optional In-Class Lab **Tuesday, March 7, 9:30-10:45AM**
 * Zoom link details in blackboard
 * DaVinci Resolve and OBS Basics
 
@@ -205,9 +205,9 @@ Optional In-Class Lab **Tuesday, March 1, 9:30-10:45AM**
 ## Unit 3: Non-linear Narratives in Digital Media
 
 ### Week 9
-#### Week of March 7, 2022: Personal Digital Narrative
+#### Week of March 6, 2022: Personal Digital Narrative
 
-DUE **Thursday, March 10**:
+DUE **Thursday, March 9**:
 * Read [Lisa Nakamura, Digitizing Race: Introduction](/week_09_week_of_03-08-2021/readings/Lisa-Nakamura-Digitizing-Race-Intro-WEEK-09.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-09-nakamura.md' and discuss in about 2 paragraphs how you believe Nakamura's citation of Lev Manovich saying "interactive media ask us to identify with someone else’s mental structure" is to be understood. Discuss one example in depth of how aspects of tools you may use (such as Gmail, Instagram, TikTok, etc) are reflections of the designer's or developer's 'mental structure' and their own identity.
 * Push the file to your repository
@@ -218,16 +218,16 @@ DUE **Thursday, March 10**:
 ***
 
 ### Week 10
-#### Week of March 14, 2022: Non-linear Narratives in Digital Media
+#### Week of March 13, 2022: Non-linear Narratives in Digital Media
 
-DUE **Thursday, March 17**:
+DUE **Thursday, March 16**:
 * [Read the description for Project 3: Non-linear Narrative](/week_10_week_of_03-15-2021/project-3_non-linear-narrative.md)
 * Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10_week_of_03-15-2021/readings/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
 * Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-03-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
 * Push the file to your repository
 
-Optional In-Class Lab **Tuesday, March 15, 9:30-10:45AM**
+Optional In-Class Lab **Tuesday, March 14, 9:30-10:45AM**
 * Zoom link details in blackboard
 * Introduction to Twine Workshop - [a tool for making non-linear games](https://twinery.org/)
 * Tutorial will be recorded and shared with the class
@@ -235,12 +235,12 @@ Optional In-Class Lab **Tuesday, March 15, 9:30-10:45AM**
 ***
 
 ### Week 11
-#### Week of March 21, 2022: SPRING BREAK!
+#### Week of March 20, 2022: SPRING BREAK!
 
 ### Week 12
-#### Week of March 28, 2022: Game Design for Artists, Part 1
+#### Week of March 27, 2022: Game Design for Artists, Part 1
 
-DUE **Thursday, March 31**:
+DUE **Thursday, March 30**:
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_12_week_of_03-29-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-12.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-12-anthropy.md' and discuss in about 4 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools
 * Push the file to your repository
@@ -248,13 +248,13 @@ DUE **Thursday, March 31**:
 ***
 
 ### Week 13
-#### Week of April 4, 2022: Game Design for Artists, Part 2
+#### Week of April 3, 2022: Game Design for Artists, Part 2
 
 ![My Boyfriend Came Back from the War](/my_boyfriend_came_back_from_the_war.gif)
 
 <sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
 
-DUE **Thursday, April 7**:
+DUE **Thursday, April 6**:
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_13_week_of_04-05-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-13-anthopy.md' and respond with around 3 questions these readings brought up for you. Pick one and discuss it in 3 paragraphs
 * Push the file to your repository
@@ -272,26 +272,26 @@ https://uic.zoom.us/rec/share/oQH_ypu3YxS5OA5cqGZGJiInhh5I4DhsHPB7bgurKFnsD2KHK7
 ***
 
 ### Week 14
-#### Week of April 11, 2021
+#### Week of April 10, 2021
 
 
 
-DUE **Thursday, April 14**:
+DUE **Thursday, April 13**:
 * Non-linear Narrative Project DUE
 
 ***
 
 ### Week 15
-#### Week of April 18, 2021
+#### Week of April 17, 2021
 
 Continue working on your Final Portfolio Project
 
 ***
 
 ### Week 16
-#### Week of April 25, 2021
+#### Week of April 24, 2021
 
-DUE **Thursday, April 28**:
+DUE **Thursday, April 27**:
 * Final Portfolio Project
 
 ***
