@@ -1,5 +1,5 @@
 # IDEA 120: Digital Practices in Art and Design
-### Schedule for Spring 2022
+### Schedule for Spring 2023
 
 ![Jodi, 'wwwwwwwww'](jodi_wwwwwwwww.png)
 <sup>*Screenshot from [Jodi (Collective) 'wwwwwwwww'](http://wwwwwwwww.jodi.org/)*</sup>
