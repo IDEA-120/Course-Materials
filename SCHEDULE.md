@@ -104,11 +104,11 @@ DUE **Thursday, February 2**:
 * [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
 * Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
 * Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_02-01-2021/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
-* In Atom, create a new markdown file named 'week-04-response.md' and save it in your 'idea-120-responses' repository
+* Create a new markdown file named 'week-04-response.md' and save it in your 'idea-120-responses' repository
 * In this response provide an example of a kind of image that would be read differently if it were seen in another medium (for example, posts by Instagram 'influencers', food photography, or [click-bait news articles](https://en.wikipedia.org/wiki/Clickbait)). What are the 'three messages' (as laid out by Barthes) this kind of image contains?  
-* Save the file and ['stage all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
-* Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
-* Read W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
+ Save the file and ['stage all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
+ Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
+ Read W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
 
 Tuesday Recording:
 https://uic.zoom.us/rec/share/daY7zeS1m0X7CDQJKJEiHoeOVvHVgst7KQkW0ZShVdmMTYpRO89FiIGh5_5SWezq.ETX8NluCnV4atlSG
