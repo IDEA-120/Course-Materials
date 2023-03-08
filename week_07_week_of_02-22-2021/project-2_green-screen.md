@@ -24,4 +24,4 @@ For this project you will create a video using any technique and tool of your ch
 * You can record the video yourself or you can [appropriate](https://www.tate.org.uk/art/art-terms/a/appropriation) video (or a sequence of images) and edit it to make it your own
 * You can think at human scale or you can think small (model making?) or huge (space, planets, giants)
 * The virtual background must be enabled, and a demo video of it in use recorded using screen capture software ([for Mac](https://support.apple.com/en-us/HT208721), [for Windows](https://www.pcmag.com/how-to/how-to-capture-video-clips-in-windows-10), using [Quicktime](https://support.apple.com/en-us/HT208721), [Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud/tools/screen-recorder.html?red=a)), or [another 3rd party application](https://blog.hubspot.com/marketing/how-to-record-your-screen)).
-* Upload your project to your UIC Google Drive and share the file with me (jkelle28@uic.edu)
+* Upload your project to your UIC Google Drive and share the file with me (tkwasny@uic.edu)
